@@ -96,11 +96,13 @@ Le taux de chômage plus faible en zone rurale traduit-il un marché du travail 
 ## Structure du projet
 
 ```
-├── data/
-│   ├── clean/          # tables nettoyées et fusionnées
-│   └── raw/            # exports bruts du BDS (HCP)
-├── outputs/            # graphiques générés
+├── .gitignore
+├── requirements.txt
 ├── README.md
+├── data/
+│   ├── clean/
+│   └── raw/
+├── outputs/
 ├── exploration.py
 ├── nettoyage.py
 └── visualisation.py

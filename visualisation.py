@@ -15,8 +15,11 @@ def plot_evolution_nationale(marche_travail: pd.DataFrame) -> None:
     """Graphique 1 : évolution nationale 2017-2025 (activité/emploi/chômage).
     Moyenne simple inter-provinces, non pondérée par population — à titre indicatif.
     """
-    national = marche_travail[marche_travail["milieu"] == "National"]
-    evolution = national.groupby("annee")[["taux_activite", "taux_emploi", "taux_chomage"]].mean()
+    moyenne_provinciale = marche_travail[
+        marche_travail["milieu"] == "National"]
+    evolution = moyenne_provinciale.groupby("annee")[
+        ["taux_activite", "taux_emploi", "taux_chomage"]
+    ].mean()
 
     fig, ax = plt.subplots(figsize=(10, 6))
     ax.plot(evolution.index, evolution["taux_activite"], marker="o", label="Taux d'activité", linewidth=2)
