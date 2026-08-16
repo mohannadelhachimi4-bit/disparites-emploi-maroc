@@ -1,0 +1,1899 @@
+milieu,province,annee,taux_activite,taux_emploi,taux_chomage
+National,Agadir-Ida-Ou-Tanane,2017,41.9,36.2,13.5
+National,Agadir-Ida-Ou-Tanane,2018,40.7,34.9,14.2
+National,Agadir-Ida-Ou-Tanane,2019,41.9,36.3,13.3
+National,Agadir-Ida-Ou-Tanane,2020,41.5,35.1,15.4
+National,Agadir-Ida-Ou-Tanane,2021,40.8,34.5,15.5
+National,Agadir-Ida-Ou-Tanane,2022,38.4,32.3,15.8
+National,Agadir-Ida-Ou-Tanane,2023,39.4,33.1,15.9
+National,Agadir-Ida-Ou-Tanane,2024,41.7,34.8,16.4
+National,Agadir-Ida-Ou-Tanane,2025,41.4,35.3,14.6
+Rural,Agadir-Ida-Ou-Tanane,2017,49.5,46.0,
+Rural,Agadir-Ida-Ou-Tanane,2018,41.9,38.8,
+Rural,Agadir-Ida-Ou-Tanane,2019,43.9,41.3,
+Rural,Agadir-Ida-Ou-Tanane,2020,43.6,41.1,
+Rural,Agadir-Ida-Ou-Tanane,2021,43.8,41.3,
+Rural,Agadir-Ida-Ou-Tanane,2022,37.9,35.1,
+Rural,Agadir-Ida-Ou-Tanane,2023,36.6,33.9,
+Rural,Agadir-Ida-Ou-Tanane,2024,36.9,32.6,
+Rural,Agadir-Ida-Ou-Tanane,2025,36.8,32.6,
+Urbain,Agadir-Ida-Ou-Tanane,2017,40.8,34.8,14.6
+Urbain,Agadir-Ida-Ou-Tanane,2018,40.5,34.4,15.1
+Urbain,Agadir-Ida-Ou-Tanane,2019,41.6,35.6,14.4
+Urbain,Agadir-Ida-Ou-Tanane,2020,41.2,34.3,16.9
+Urbain,Agadir-Ida-Ou-Tanane,2021,40.4,33.5,16.9
+Urbain,Agadir-Ida-Ou-Tanane,2022,38.4,32.0,16.9
+Urbain,Agadir-Ida-Ou-Tanane,2023,39.7,33.0,16.9
+Urbain,Agadir-Ida-Ou-Tanane,2024,42.2,35.1,16.9
+Urbain,Agadir-Ida-Ou-Tanane,2025,41.9,35.6,15.0
+National,Al Haouz,2017,49.0,47.3,3.5
+National,Al Haouz,2018,49.4,47.6,3.5
+National,Al Haouz,2019,48.5,46.9,3.4
+National,Al Haouz,2020,46.8,43.7,6.6
+National,Al Haouz,2021,47.5,45.5,4.3
+National,Al Haouz,2022,45.3,43.7,3.5
+National,Al Haouz,2023,45.5,43.7,3.9
+National,Al Haouz,2024,43.4,41.1,5.4
+National,Al Haouz,2025,44.9,42.2,6.0
+Rural,Al Haouz,2017,51.1,49.5,3.1
+Rural,Al Haouz,2018,51.1,49.6,3.0
+Rural,Al Haouz,2019,50.0,48.5,2.9
+Rural,Al Haouz,2020,48.1,45.7,5.1
+Rural,Al Haouz,2021,48.8,47.0,3.7
+Rural,Al Haouz,2022,46.4,45.2,2.7
+Rural,Al Haouz,2023,46.2,44.7,3.3
+Rural,Al Haouz,2024,43.8,42.0,4.0
+Rural,Al Haouz,2025,45.7,43.7,4.5
+Urbain,Al Haouz,2017,38.1,35.8,
+Urbain,Al Haouz,2018,40.1,37.2,
+Urbain,Al Haouz,2019,40.9,38.3,
+Urbain,Al Haouz,2020,40.3,34.1,15.4
+Urbain,Al Haouz,2021,40.7,37.5,
+Urbain,Al Haouz,2022,39.3,36.2,
+Urbain,Al Haouz,2023,42.2,39.2,
+Urbain,Al Haouz,2024,41.6,36.2,12.9
+Urbain,Al Haouz,2025,41.0,35.1,14.4
+National,Al Hoceima,2017,52.4,48.3,7.8
+National,Al Hoceima,2018,52.3,48.6,7.0
+National,Al Hoceima,2019,48.2,44.1,8.4
+National,Al Hoceima,2020,45.4,40.2,11.4
+National,Al Hoceima,2021,50.5,45.4,10.0
+National,Al Hoceima,2022,52.5,48.1,8.5
+National,Al Hoceima,2023,49.9,44.8,10.2
+National,Al Hoceima,2024,49.1,45.2,8.0
+National,Al Hoceima,2025,48.1,44.8,6.7
+Rural,Al Hoceima,2017,57.0,54.4,4.6
+Rural,Al Hoceima,2018,57.3,55.0,4.0
+Rural,Al Hoceima,2019,50.6,48.1,4.9
+Rural,Al Hoceima,2020,47.2,43.6,7.7
+Rural,Al Hoceima,2021,55.4,52.8,4.8
+Rural,Al Hoceima,2022,59.2,57.0,3.7
+Rural,Al Hoceima,2023,56.0,53.2,5.0
+Rural,Al Hoceima,2024,54.5,52.4,3.9
+Rural,Al Hoceima,2025,53.4,51.7,
+Urbain,Al Hoceima,2017,43.8,37.0,15.6
+Urbain,Al Hoceima,2018,42.9,36.8,14.3
+Urbain,Al Hoceima,2019,43.9,37.1,15.7
+Urbain,Al Hoceima,2020,42.7,35.4,17.0
+Urbain,Al Hoceima,2021,42.5,33.5,21.0
+Urbain,Al Hoceima,2022,41.7,33.6,19.4
+Urbain,Al Hoceima,2023,39.9,31.2,21.8
+Urbain,Al Hoceima,2024,40.6,33.8,16.8
+Urbain,Al Hoceima,2025,39.2,33.5,14.5
+National,Assa-Zag,2017,32.8,23.8,
+National,Assa-Zag,2018,35.9,,
+National,Assa-Zag,2019,40.2,24.8,
+National,Assa-Zag,2020,42.3,31.4,
+National,Assa-Zag,2021,37.1,28.5,
+National,Assa-Zag,2022,34.1,27.4,
+National,Assa-Zag,2023,31.2,23.0,
+National,Assa-Zag,2024,33.6,23.3,
+National,Assa-Zag,2025,35.3,25.0,
+Urbain,Assa-Zag,2017,32.8,23.8,
+Urbain,Assa-Zag,2018,35.9,,
+Urbain,Assa-Zag,2019,40.2,24.8,
+Urbain,Assa-Zag,2020,42.3,31.4,
+Urbain,Assa-Zag,2021,37.1,28.5,
+Urbain,Assa-Zag,2022,34.1,27.4,
+Urbain,Assa-Zag,2023,31.2,23.0,
+Urbain,Assa-Zag,2024,33.6,23.3,
+Urbain,Assa-Zag,2025,35.3,25.0,
+National,Azilal,2017,44.9,42.8,4.6
+National,Azilal,2018,42.6,41.4,2.9
+National,Azilal,2019,45.4,43.9,3.4
+National,Azilal,2020,43.6,40.7,6.6
+National,Azilal,2021,44.0,40.5,8.0
+National,Azilal,2022,40.3,36.1,10.6
+National,Azilal,2023,34.1,29.9,12.3
+National,Azilal,2024,31.3,27.0,13.9
+National,Azilal,2025,28.9,25.4,12.1
+Rural,Azilal,2017,48.5,46.9,3.4
+Rural,Azilal,2018,45.5,44.8,
+Rural,Azilal,2019,48.3,47.5,
+Rural,Azilal,2020,46.1,43.7,5.0
+Rural,Azilal,2021,46.8,43.8,6.4
+Rural,Azilal,2022,43.0,39.0,9.3
+Rural,Azilal,2023,35.7,31.8,10.9
+Rural,Azilal,2024,32.4,28.8,11.3
+Rural,Azilal,2025,29.2,25.9,11.4
+Urbain,Azilal,2017,31.5,27.9,
+Urbain,Azilal,2018,32.0,28.9,
+Urbain,Azilal,2019,35.3,30.9,
+Urbain,Azilal,2020,34.6,29.7,14.3
+Urbain,Azilal,2021,33.8,28.6,15.6
+Urbain,Azilal,2022,31.0,25.9,16.6
+Urbain,Azilal,2023,29.0,23.7,18.2
+Urbain,Azilal,2024,27.7,21.1,23.8
+Urbain,Azilal,2025,28.2,24.1,
+National,Benslimane,2017,60.2,57.0,5.2
+National,Benslimane,2018,58.8,55.7,5.1
+National,Benslimane,2019,57.5,54.3,5.4
+National,Benslimane,2020,49.0,45.0,8.3
+National,Benslimane,2021,47.8,44.3,7.3
+National,Benslimane,2022,45.5,41.7,8.3
+National,Benslimane,2023,45.2,39.9,11.7
+National,Benslimane,2024,46.7,40.2,13.8
+National,Benslimane,2025,46.7,40.4,13.5
+Rural,Benslimane,2017,74.9,74.7,
+Rural,Benslimane,2018,71.8,71.3,
+Rural,Benslimane,2019,67.3,64.9,
+Rural,Benslimane,2020,53.4,50.6,
+Rural,Benslimane,2021,51.2,49.8,
+Rural,Benslimane,2022,49.5,47.8,
+Rural,Benslimane,2023,49.1,46.0,
+Rural,Benslimane,2024,49.7,45.1,9.4
+Rural,Benslimane,2025,48.5,43.8,9.8
+Urbain,Benslimane,2017,46.4,40.6,12.6
+Urbain,Benslimane,2018,44.6,38.9,12.8
+Urbain,Benslimane,2019,48.2,44.4,7.9
+Urbain,Benslimane,2020,44.9,39.7,11.7
+Urbain,Benslimane,2021,44.9,39.5,11.9
+Urbain,Benslimane,2022,42.2,36.7,13.0
+Urbain,Benslimane,2023,42.2,35.2,16.6
+Urbain,Benslimane,2024,44.4,36.6,17.6
+Urbain,Benslimane,2025,45.3,37.7,16.6
+National,Berkane,2017,45.0,36.8,18.1
+National,Berkane,2018,44.6,37.7,15.5
+National,Berkane,2019,42.8,37.7,11.9
+National,Berkane,2020,42.7,34.3,19.8
+National,Berkane,2021,44.8,36.1,19.6
+National,Berkane,2022,44.5,36.7,17.5
+National,Berkane,2023,42.6,33.9,20.5
+National,Berkane,2024,41.8,34.0,18.7
+National,Berkane,2025,39.8,31.5,20.8
+Rural,Berkane,2017,51.6,44.8,13.3
+Rural,Berkane,2018,50.0,44.2,11.6
+Rural,Berkane,2019,47.1,42.7,9.3
+Rural,Berkane,2020,44.6,35.1,21.3
+Rural,Berkane,2021,48.9,41.0,16.2
+Rural,Berkane,2022,47.9,40.8,14.8
+Rural,Berkane,2023,44.7,37.7,15.8
+Rural,Berkane,2024,44.0,38.6,12.4
+Rural,Berkane,2025,41.8,34.1,18.3
+Urbain,Berkane,2017,41.4,32.6,21.2
+Urbain,Berkane,2018,42.1,34.6,17.8
+Urbain,Berkane,2019,40.7,35.3,13.4
+Urbain,Berkane,2020,41.9,33.9,19.1
+Urbain,Berkane,2021,43.0,33.8,21.3
+Urbain,Berkane,2022,43.1,35.0,18.8
+Urbain,Berkane,2023,41.7,32.3,22.5
+Urbain,Berkane,2024,40.9,32.2,21.3
+Urbain,Berkane,2025,39.1,30.5,21.8
+National,Berrechid,2017,49.5,46.6,5.8
+National,Berrechid,2018,49.3,46.8,5.1
+National,Berrechid,2019,50.5,48.3,4.3
+National,Berrechid,2020,46.4,42.4,8.7
+National,Berrechid,2021,47.2,43.6,7.7
+National,Berrechid,2022,44.6,41.5,6.8
+National,Berrechid,2023,45.2,40.8,9.7
+National,Berrechid,2024,47.0,41.4,11.9
+National,Berrechid,2025,47.6,41.4,13.0
+Rural,Berrechid,2017,61.5,59.9,
+Rural,Berrechid,2018,63.1,62.2,
+Rural,Berrechid,2019,63.3,62.6,
+Rural,Berrechid,2020,54.5,52.5,
+Rural,Berrechid,2021,55.8,53.5,
+Rural,Berrechid,2022,51.5,49.1,
+Rural,Berrechid,2023,51.4,48.2,6.3
+Rural,Berrechid,2024,50.4,46.5,7.7
+Rural,Berrechid,2025,50.6,46.8,7.6
+Urbain,Berrechid,2017,41.2,37.4,9.1
+Urbain,Berrechid,2018,39.9,36.3,9.1
+Urbain,Berrechid,2019,41.8,38.6,7.7
+Urbain,Berrechid,2020,41.6,36.3,12.6
+Urbain,Berrechid,2021,41.9,37.4,10.7
+Urbain,Berrechid,2022,40.5,37.0,8.4
+Urbain,Berrechid,2023,41.4,36.3,12.2
+Urbain,Berrechid,2024,45.1,38.5,14.6
+Urbain,Berrechid,2025,46.0,38.5,16.2
+National,Boujdour,2017,45.4,42.8,
+National,Boujdour,2018,52.7,50.2,
+National,Boujdour,2019,44.4,39.7,
+National,Boujdour,2020,51.3,43.7,
+National,Boujdour,2021,47.0,37.3,20.7
+National,Boujdour,2022,44.1,35.8,19.0
+National,Boujdour,2023,50.1,37.9,24.4
+National,Boujdour,2024,50.6,41.1,18.8
+National,Boujdour,2025,47.9,38.9,18.7
+Urbain,Boujdour,2017,39.3,36.4,
+Urbain,Boujdour,2018,41.6,38.5,
+Urbain,Boujdour,2019,39.0,33.8,
+Urbain,Boujdour,2020,41.8,32.8,
+Urbain,Boujdour,2021,40.2,29.3,27.2
+Urbain,Boujdour,2022,36.8,27.4,25.7
+Urbain,Boujdour,2023,41.4,27.0,34.7
+Urbain,Boujdour,2024,41.1,29.7,27.6
+Urbain,Boujdour,2025,41.6,31.6,24.1
+National,Boulemane,2017,39.0,36.7,
+National,Boulemane,2018,38.1,36.3,
+National,Boulemane,2019,41.2,39.1,
+National,Boulemane,2020,40.1,37.3,6.8
+National,Boulemane,2021,41.2,36.7,10.9
+National,Boulemane,2022,39.4,35.6,9.5
+National,Boulemane,2023,37.6,32.6,13.3
+National,Boulemane,2024,38.1,32.8,14.0
+National,Boulemane,2025,37.9,33.3,12.2
+Rural,Boulemane,2017,44.8,43.5,
+Rural,Boulemane,2018,43.9,42.4,
+Rural,Boulemane,2019,46.7,44.7,
+Rural,Boulemane,2020,45.3,43.1,
+Rural,Boulemane,2021,48.3,45.5,
+Rural,Boulemane,2022,44.4,41.4,
+Rural,Boulemane,2023,40.4,36.0,
+Rural,Boulemane,2024,39.6,34.8,12.0
+Rural,Boulemane,2025,39.6,35.1,
+Urbain,Boulemane,2017,28.9,24.9,
+Urbain,Boulemane,2018,28.0,25.8,
+Urbain,Boulemane,2019,32.0,29.5,
+Urbain,Boulemane,2020,32.4,29.0,
+Urbain,Boulemane,2021,29.9,22.8,23.7
+Urbain,Boulemane,2022,31.1,26.2,
+Urbain,Boulemane,2023,33.1,27.0,
+Urbain,Boulemane,2024,35.7,29.4,
+Urbain,Boulemane,2025,35.3,30.4,
+National,Béni Mellal,2017,42.2,39.0,7.6
+National,Béni Mellal,2018,40.7,37.4,8.1
+National,Béni Mellal,2019,42.7,39.3,8.1
+National,Béni Mellal,2020,41.2,37.4,9.1
+National,Béni Mellal,2021,43.0,37.2,13.6
+National,Béni Mellal,2022,40.2,33.6,16.5
+National,Béni Mellal,2023,38.8,31.7,18.3
+National,Béni Mellal,2024,38.3,31.5,17.8
+National,Béni Mellal,2025,37.3,31.8,14.9
+Rural,Béni Mellal,2017,50.1,48.4,
+Rural,Béni Mellal,2018,48.7,46.7,4.1
+Rural,Béni Mellal,2019,50.5,48.6,
+Rural,Béni Mellal,2020,49.5,46.8,5.6
+Rural,Béni Mellal,2021,50.0,45.9,8.2
+Rural,Béni Mellal,2022,44.9,40.6,9.5
+Rural,Béni Mellal,2023,45.3,40.0,11.7
+Rural,Béni Mellal,2024,43.6,39.3,9.8
+Rural,Béni Mellal,2025,41.6,38.1,8.4
+Urbain,Béni Mellal,2017,36.9,32.8,11.2
+Urbain,Béni Mellal,2018,35.5,31.4,11.7
+Urbain,Béni Mellal,2019,37.8,33.4,11.7
+Urbain,Béni Mellal,2020,35.8,31.4,12.2
+Urbain,Béni Mellal,2021,38.6,31.6,18.1
+Urbain,Béni Mellal,2022,37.2,29.1,21.7
+Urbain,Béni Mellal,2023,34.8,26.5,23.8
+Urbain,Béni Mellal,2024,35.1,26.7,23.9
+Urbain,Béni Mellal,2025,34.8,28.0,19.6
+National,Casablanca,2017,45.8,38.6,15.9
+National,Casablanca,2018,45.7,39.2,14.2
+National,Casablanca,2019,46.6,40.3,13.5
+National,Casablanca,2020,45.0,36.7,18.5
+National,Casablanca,2021,45.3,36.3,19.7
+National,Casablanca,2022,44.4,36.3,18.2
+National,Casablanca,2023,44.2,35.8,19.0
+National,Casablanca,2024,43.7,35.7,18.3
+National,Casablanca,2025,43.8,36.1,17.7
+Urbain,Casablanca,2017,45.8,38.6,15.9
+Urbain,Casablanca,2018,45.7,39.2,14.2
+Urbain,Casablanca,2019,46.6,40.3,13.5
+Urbain,Casablanca,2020,45.0,36.7,18.5
+Urbain,Casablanca,2021,45.3,36.3,19.7
+Urbain,Casablanca,2022,44.4,36.3,18.2
+Urbain,Casablanca,2023,44.2,35.8,19.0
+Urbain,Casablanca,2024,43.7,35.7,18.3
+Urbain,Casablanca,2025,43.8,36.1,17.7
+National,Chefchaouen,2017,55.0,52.8,3.9
+National,Chefchaouen,2018,54.6,52.6,3.8
+National,Chefchaouen,2019,52.1,49.6,4.7
+National,Chefchaouen,2020,49.1,46.4,5.5
+National,Chefchaouen,2021,58.7,56.0,4.6
+National,Chefchaouen,2022,60.2,57.2,5.0
+National,Chefchaouen,2023,58.7,55.2,6.0
+National,Chefchaouen,2024,60.1,56.5,6.0
+National,Chefchaouen,2025,58.8,56.1,4.6
+Rural,Chefchaouen,2017,56.6,55.0,2.8
+Rural,Chefchaouen,2018,56.3,55.0,
+Rural,Chefchaouen,2019,53.7,52.0,3.2
+Rural,Chefchaouen,2020,51.0,49.4,3.2
+Rural,Chefchaouen,2021,62.1,60.5,2.5
+Rural,Chefchaouen,2022,63.4,62.0,2.2
+Rural,Chefchaouen,2023,61.4,59.7,2.8
+Rural,Chefchaouen,2024,63.1,61.4,2.8
+Rural,Chefchaouen,2025,61.9,60.5,2.3
+Urbain,Chefchaouen,2017,44.4,39.0,
+Urbain,Chefchaouen,2018,44.6,38.4,13.8
+Urbain,Chefchaouen,2019,43.2,36.8,14.8
+Urbain,Chefchaouen,2020,41.0,33.6,18.0
+Urbain,Chefchaouen,2021,40.9,32.1,21.5
+Urbain,Chefchaouen,2022,44.0,32.7,25.6
+Urbain,Chefchaouen,2023,45.1,32.5,27.9
+Urbain,Chefchaouen,2024,44.9,31.9,29.0
+Urbain,Chefchaouen,2025,44.1,35.5,19.4
+National,Chichaoua,2017,51.6,50.1,2.8
+National,Chichaoua,2018,50.5,49.0,3.0
+National,Chichaoua,2019,49.5,47.8,3.3
+National,Chichaoua,2020,47.5,46.0,3.3
+National,Chichaoua,2021,47.1,45.9,
+National,Chichaoua,2022,42.9,41.4,3.4
+National,Chichaoua,2023,38.5,37.6,
+National,Chichaoua,2024,39.2,36.7,6.3
+National,Chichaoua,2025,39.4,37.2,5.7
+Rural,Chichaoua,2017,53.3,52.4,
+Rural,Chichaoua,2018,51.4,50.3,
+Rural,Chichaoua,2019,50.5,49.1,
+Rural,Chichaoua,2020,49.1,47.7,
+Rural,Chichaoua,2021,48.9,48.1,
+Rural,Chichaoua,2022,43.9,42.7,
+Rural,Chichaoua,2023,38.1,37.4,
+Rural,Chichaoua,2024,38.9,36.7,5.8
+Rural,Chichaoua,2025,39.8,37.9,
+Urbain,Chichaoua,2017,43.9,40.1,
+Urbain,Chichaoua,2018,46.1,42.5,
+Urbain,Chichaoua,2019,44.3,41.8,
+Urbain,Chichaoua,2020,40.9,38.6,
+Urbain,Chichaoua,2021,39.5,36.6,
+Urbain,Chichaoua,2022,38.6,36.0,
+Urbain,Chichaoua,2023,40.6,38.4,
+Urbain,Chichaoua,2024,40.1,36.8,
+Urbain,Chichaoua,2025,37.9,34.3,
+National,Chtouka-Ait Baha,2017,48.3,45.4,5.9
+National,Chtouka-Ait Baha,2018,49.5,46.3,6.4
+National,Chtouka-Ait Baha,2019,45.6,42.3,7.3
+National,Chtouka-Ait Baha,2020,43.6,39.6,9.2
+National,Chtouka-Ait Baha,2021,45.6,42.5,6.8
+National,Chtouka-Ait Baha,2022,42.3,39.1,7.6
+National,Chtouka-Ait Baha,2023,42.8,38.1,11.0
+National,Chtouka-Ait Baha,2024,43.1,39.9,7.4
+National,Chtouka-Ait Baha,2025,43.7,40.8,6.8
+Rural,Chtouka-Ait Baha,2017,46.6,43.8,6.0
+Rural,Chtouka-Ait Baha,2018,47.2,44.3,6.1
+Rural,Chtouka-Ait Baha,2019,43.7,40.8,6.6
+Rural,Chtouka-Ait Baha,2020,42.3,38.2,9.7
+Rural,Chtouka-Ait Baha,2021,45.0,42.5,5.7
+Rural,Chtouka-Ait Baha,2022,40.1,37.2,7.3
+Rural,Chtouka-Ait Baha,2023,40.5,36.2,10.8
+Rural,Chtouka-Ait Baha,2024,40.8,38.7,5.2
+Rural,Chtouka-Ait Baha,2025,41.6,39.1,5.8
+Urbain,Chtouka-Ait Baha,2017,52.1,49.1,
+Urbain,Chtouka-Ait Baha,2018,54.8,51.0,
+Urbain,Chtouka-Ait Baha,2019,49.7,45.4,8.6
+Urbain,Chtouka-Ait Baha,2020,46.4,42.5,8.4
+Urbain,Chtouka-Ait Baha,2021,46.8,42.6,9.0
+Urbain,Chtouka-Ait Baha,2022,46.5,42.8,8.0
+Urbain,Chtouka-Ait Baha,2023,46.9,41.7,11.2
+Urbain,Chtouka-Ait Baha,2024,47.0,42.0,10.6
+Urbain,Chtouka-Ait Baha,2025,47.1,43.3,8.2
+National,Driouch,2017,43.6,37.2,14.7
+National,Driouch,2018,42.8,36.7,14.4
+National,Driouch,2019,43.2,38.3,11.5
+National,Driouch,2020,41.4,34.2,17.4
+National,Driouch,2021,40.7,36.0,11.7
+National,Driouch,2022,39.6,34.5,12.9
+National,Driouch,2023,38.0,30.9,18.6
+National,Driouch,2024,36.2,29.9,17.4
+National,Driouch,2025,37.8,31.5,16.6
+Rural,Driouch,2017,43.4,37.1,14.4
+Rural,Driouch,2018,43.0,36.9,14.2
+Rural,Driouch,2019,43.6,38.7,11.4
+Rural,Driouch,2020,41.7,33.1,20.6
+Rural,Driouch,2021,40.4,35.5,12.2
+Rural,Driouch,2022,39.6,34.7,12.4
+Rural,Driouch,2023,38.5,31.6,17.9
+Rural,Driouch,2024,34.3,28.6,16.5
+Rural,Driouch,2025,37.6,30.8,18.0
+Urbain,Driouch,2017,44.2,37.4,15.4
+Urbain,Driouch,2018,42.3,36.0,
+Urbain,Driouch,2019,42.3,37.3,
+Urbain,Driouch,2020,40.9,36.7,
+Urbain,Driouch,2021,41.4,36.9,
+Urbain,Driouch,2022,39.6,34.2,
+Urbain,Driouch,2023,37.1,29.8,19.9
+Urbain,Driouch,2024,39.3,31.9,18.8
+Urbain,Driouch,2025,38.2,32.6,
+National,El Hajeb,2017,46.1,39.9,13.3
+National,El Hajeb,2018,43.6,39.6,9.2
+National,El Hajeb,2019,42.3,38.2,9.8
+National,El Hajeb,2020,42.6,35.3,17.0
+National,El Hajeb,2021,44.1,38.0,13.8
+National,El Hajeb,2022,45.0,37.7,16.2
+National,El Hajeb,2023,45.7,39.3,14.0
+National,El Hajeb,2024,47.2,40.5,14.1
+National,El Hajeb,2025,46.6,39.1,16.0
+Rural,El Hajeb,2017,50.4,47.0,6.7
+Rural,El Hajeb,2018,47.1,45.5,
+Rural,El Hajeb,2019,48.0,45.4,
+Rural,El Hajeb,2020,47.8,41.3,13.4
+Rural,El Hajeb,2021,47.2,44.3,
+Rural,El Hajeb,2022,49.3,43.5,11.7
+Rural,El Hajeb,2023,49.1,45.8,
+Rural,El Hajeb,2024,51.7,45.5,12.0
+Rural,El Hajeb,2025,50.1,44.8,10.6
+Urbain,El Hajeb,2017,41.9,33.1,20.9
+Urbain,El Hajeb,2018,40.2,33.8,15.9
+Urbain,El Hajeb,2019,37.2,31.6,15.1
+Urbain,El Hajeb,2020,38.2,30.3,20.7
+Urbain,El Hajeb,2021,41.5,32.6,21.3
+Urbain,El Hajeb,2022,40.9,32.2,21.2
+Urbain,El Hajeb,2023,42.7,33.5,21.6
+Urbain,El Hajeb,2024,43.1,36.0,16.5
+Urbain,El Hajeb,2025,43.7,34.4,21.2
+National,El Jadida,2017,60.3,55.1,8.7
+National,El Jadida,2018,58.6,53.5,8.6
+National,El Jadida,2019,57.3,51.9,9.3
+National,El Jadida,2020,56.0,50.4,10.1
+National,El Jadida,2021,54.5,47.3,13.1
+National,El Jadida,2022,54.0,47.9,11.3
+National,El Jadida,2023,51.7,45.5,12.0
+National,El Jadida,2024,51.8,45.5,12.0
+National,El Jadida,2025,51.5,45.3,12.0
+Rural,El Jadida,2017,69.4,66.9,3.5
+Rural,El Jadida,2018,67.5,65.6,2.8
+Rural,El Jadida,2019,66.3,63.8,3.8
+Rural,El Jadida,2020,62.7,59.8,4.6
+Rural,El Jadida,2021,62.1,58.9,5.2
+Rural,El Jadida,2022,58.6,55.6,5.2
+Rural,El Jadida,2023,55.5,52.2,6.0
+Rural,El Jadida,2024,56.4,53.2,5.6
+Rural,El Jadida,2025,56.4,53.9,4.5
+Urbain,El Jadida,2017,48.3,39.4,18.4
+Urbain,El Jadida,2018,46.9,37.7,19.5
+Urbain,El Jadida,2019,46.3,37.5,19.0
+Urbain,El Jadida,2020,46.9,37.5,20.0
+Urbain,El Jadida,2021,45.9,34.4,25.1
+Urbain,El Jadida,2022,48.9,39.3,19.5
+Urbain,El Jadida,2023,47.6,38.2,19.9
+Urbain,El Jadida,2024,46.9,37.4,20.2
+Urbain,El Jadida,2025,46.4,36.6,21.2
+National,El Kelâa des Sraghna,2017,49.5,47.0,4.9
+National,El Kelâa des Sraghna,2018,48.1,46.2,3.9
+National,El Kelâa des Sraghna,2019,48.2,45.7,5.2
+National,El Kelâa des Sraghna,2020,46.5,43.7,6.0
+National,El Kelâa des Sraghna,2021,45.6,43.3,4.9
+National,El Kelâa des Sraghna,2022,44.4,41.3,7.0
+National,El Kelâa des Sraghna,2023,42.2,38.5,8.8
+National,El Kelâa des Sraghna,2024,43.7,39.7,9.0
+National,El Kelâa des Sraghna,2025,42.4,38.4,9.4
+Rural,El Kelâa des Sraghna,2017,53.7,52.2,2.8
+Rural,El Kelâa des Sraghna,2018,50.7,49.6,
+Rural,El Kelâa des Sraghna,2019,51.4,49.6,3.4
+Rural,El Kelâa des Sraghna,2020,49.2,46.9,4.6
+Rural,El Kelâa des Sraghna,2021,47.8,45.9,4.1
+Rural,El Kelâa des Sraghna,2022,46.2,43.5,5.7
+Rural,El Kelâa des Sraghna,2023,43.4,40.3,7.2
+Rural,El Kelâa des Sraghna,2024,44.9,41.6,7.4
+Rural,El Kelâa des Sraghna,2025,43.0,39.0,9.3
+Urbain,El Kelâa des Sraghna,2017,39.5,34.8,11.9
+Urbain,El Kelâa des Sraghna,2018,41.5,37.6,9.2
+Urbain,El Kelâa des Sraghna,2019,40.5,36.2,10.8
+Urbain,El Kelâa des Sraghna,2020,40.4,36.5,9.6
+Urbain,El Kelâa des Sraghna,2021,40.2,37.3,7.3
+Urbain,El Kelâa des Sraghna,2022,40.0,35.9,10.4
+Urbain,El Kelâa des Sraghna,2023,39.4,34.4,12.9
+Urbain,El Kelâa des Sraghna,2024,40.7,35.3,13.3
+Urbain,El Kelâa des Sraghna,2025,41.1,37.1,9.8
+National,Errachidia,2017,35.5,32.6,8.0
+National,Errachidia,2018,35.2,32.7,7.0
+National,Errachidia,2019,36.1,34.2,5.4
+National,Errachidia,2020,35.8,33.0,7.9
+National,Errachidia,2021,38.3,33.9,11.5
+National,Errachidia,2022,35.8,31.7,11.5
+National,Errachidia,2023,36.8,31.6,14.2
+National,Errachidia,2024,34.4,30.2,12.3
+National,Errachidia,2025,33.8,30.7,9.1
+Rural,Errachidia,2017,37.4,35.6,
+Rural,Errachidia,2018,36.8,35.7,
+Rural,Errachidia,2019,38.3,37.4,
+Rural,Errachidia,2020,36.4,34.5,
+Rural,Errachidia,2021,39.6,37.0,
+Rural,Errachidia,2022,33.7,31.1,
+Rural,Errachidia,2023,36.0,32.5,9.7
+Rural,Errachidia,2024,33.0,29.8,9.6
+Rural,Errachidia,2025,35.0,32.2,
+Urbain,Errachidia,2017,33.3,29.4,11.8
+Urbain,Errachidia,2018,33.2,29.2,12.0
+Urbain,Errachidia,2019,33.8,30.7,9.1
+Urbain,Errachidia,2020,35.2,31.3,10.9
+Urbain,Errachidia,2021,37.0,30.8,16.8
+Urbain,Errachidia,2022,37.7,32.2,14.7
+Urbain,Errachidia,2023,37.5,30.6,18.4
+Urbain,Errachidia,2024,35.7,30.5,14.7
+Urbain,Errachidia,2025,32.6,29.2,10.6
+National,Es-Semara,2017,36.3,32.1,
+National,Es-Semara,2018,40.6,34.2,
+National,Es-Semara,2019,39.2,31.1,
+National,Es-Semara,2020,40.3,31.4,
+National,Es-Semara,2021,40.0,32.3,
+National,Es-Semara,2022,38.6,32.4,
+National,Es-Semara,2023,40.9,31.8,22.3
+National,Es-Semara,2024,40.0,29.8,25.5
+National,Es-Semara,2025,40.5,27.1,32.9
+Urbain,Es-Semara,2017,36.3,32.1,
+Urbain,Es-Semara,2018,40.6,34.2,
+Urbain,Es-Semara,2019,39.2,31.1,
+Urbain,Es-Semara,2020,40.3,31.4,
+Urbain,Es-Semara,2021,40.0,32.3,
+Urbain,Es-Semara,2022,38.6,32.4,
+Urbain,Es-Semara,2023,40.9,31.8,22.3
+Urbain,Es-Semara,2024,40.0,29.8,25.5
+Urbain,Es-Semara,2025,40.5,27.1,32.9
+National,Essaouira,2017,55.7,54.3,2.6
+National,Essaouira,2018,54.0,53.0,
+National,Essaouira,2019,53.3,52.1,2.2
+National,Essaouira,2020,50.7,49.5,2.3
+National,Essaouira,2021,51.1,49.1,3.8
+National,Essaouira,2022,48.5,46.8,3.5
+National,Essaouira,2023,46.7,44.7,4.1
+National,Essaouira,2024,44.6,42.2,5.5
+National,Essaouira,2025,44.4,42.8,3.6
+Rural,Essaouira,2017,59.7,59.2,
+Rural,Essaouira,2018,58.3,58.1,
+Rural,Essaouira,2019,58.4,57.6,
+Rural,Essaouira,2020,55.7,55.2,
+Rural,Essaouira,2021,54.4,54.1,
+Rural,Essaouira,2022,50.4,49.9,
+Rural,Essaouira,2023,47.8,46.3,
+Rural,Essaouira,2024,44.4,42.8,
+Rural,Essaouira,2025,43.9,43.0,
+Urbain,Essaouira,2017,44.0,40.0,9.1
+Urbain,Essaouira,2018,42.3,39.4,
+Urbain,Essaouira,2019,39.5,37.3,
+Urbain,Essaouira,2020,37.7,34.8,
+Urbain,Essaouira,2021,41.8,35.4,15.2
+Urbain,Essaouira,2022,43.2,38.1,11.8
+Urbain,Essaouira,2023,43.8,40.5,
+Urbain,Essaouira,2024,45.2,40.6,10.2
+Urbain,Essaouira,2025,45.5,42.2,
+National,Fahs-Anjra,2017,45.8,43.4,
+National,Fahs-Anjra,2018,48.1,44.4,
+National,Fahs-Anjra,2019,41.9,41.4,
+National,Fahs-Anjra,2020,47.0,43.1,
+National,Fahs-Anjra,2021,41.2,38.6,
+National,Fahs-Anjra,2022,44.7,40.9,
+National,Fahs-Anjra,2023,45.5,41.0,
+National,Fahs-Anjra,2024,41.8,38.5,
+National,Fahs-Anjra,2025,38.2,33.4,
+Rural,Fahs-Anjra,2017,45.8,43.4,
+Rural,Fahs-Anjra,2018,48.1,44.4,
+Rural,Fahs-Anjra,2019,41.9,41.4,
+Rural,Fahs-Anjra,2020,47.0,43.1,
+Rural,Fahs-Anjra,2021,41.2,38.6,
+Rural,Fahs-Anjra,2022,44.7,40.9,
+Rural,Fahs-Anjra,2023,45.5,41.0,
+Rural,Fahs-Anjra,2024,41.8,38.5,
+Rural,Fahs-Anjra,2025,38.2,33.4,
+National,Figuig,2017,48.7,41.5,14.8
+National,Figuig,2018,47.0,40.8,13.2
+National,Figuig,2019,41.1,36.1,12.1
+National,Figuig,2020,41.2,31.5,23.5
+National,Figuig,2021,44.8,38.8,13.3
+National,Figuig,2022,45.8,39.2,14.4
+National,Figuig,2023,43.9,37.2,15.2
+National,Figuig,2024,40.7,31.8,21.9
+National,Figuig,2025,42.5,34.5,18.6
+Rural,Figuig,2017,58.2,51.8,
+Rural,Figuig,2018,54.3,49.1,
+Rural,Figuig,2019,46.2,42.1,
+Rural,Figuig,2020,45.0,36.3,19.3
+Rural,Figuig,2021,54.0,49.9,
+Rural,Figuig,2022,52.6,50.3,
+Rural,Figuig,2023,51.8,47.9,
+Rural,Figuig,2024,43.1,36.4,
+Rural,Figuig,2025,47.0,40.4,
+Urbain,Figuig,2017,40.2,32.3,19.8
+Urbain,Figuig,2018,40.6,33.5,17.5
+Urbain,Figuig,2019,37.5,31.9,14.9
+Urbain,Figuig,2020,38.6,28.3,26.8
+Urbain,Figuig,2021,38.6,31.5,18.5
+Urbain,Figuig,2022,41.8,32.6,22.0
+Urbain,Figuig,2023,39.2,30.8,21.3
+Urbain,Figuig,2024,39.2,28.9,26.3
+Urbain,Figuig,2025,39.9,31.2,21.7
+National,Fquih Ben Salah,2017,46.4,44.8,3.3
+National,Fquih Ben Salah,2018,45.8,44.1,3.7
+National,Fquih Ben Salah,2019,46.5,44.7,3.9
+National,Fquih Ben Salah,2020,44.5,41.7,6.3
+National,Fquih Ben Salah,2021,44.0,41.1,6.5
+National,Fquih Ben Salah,2022,42.8,39.8,6.9
+National,Fquih Ben Salah,2023,41.6,37.8,9.2
+National,Fquih Ben Salah,2024,40.8,36.6,10.2
+National,Fquih Ben Salah,2025,41.4,37.5,9.6
+Rural,Fquih Ben Salah,2017,51.0,50.2,
+Rural,Fquih Ben Salah,2018,51.1,50.0,
+Rural,Fquih Ben Salah,2019,51.8,50.8,
+Rural,Fquih Ben Salah,2020,49.0,47.1,4.0
+Rural,Fquih Ben Salah,2021,48.5,46.0,5.2
+Rural,Fquih Ben Salah,2022,46.1,43.8,5.1
+Rural,Fquih Ben Salah,2023,43.4,39.5,8.9
+Rural,Fquih Ben Salah,2024,41.9,37.7,10.0
+Rural,Fquih Ben Salah,2025,43.1,39.4,8.6
+Urbain,Fquih Ben Salah,2017,39.8,37.3,6.4
+Urbain,Fquih Ben Salah,2018,38.3,35.8,6.5
+Urbain,Fquih Ben Salah,2019,39.0,36.1,7.5
+Urbain,Fquih Ben Salah,2020,38.6,34.8,10.0
+Urbain,Fquih Ben Salah,2021,38.5,35.2,8.4
+Urbain,Fquih Ben Salah,2022,38.5,34.9,9.5
+Urbain,Fquih Ben Salah,2023,39.4,35.6,9.5
+Urbain,Fquih Ben Salah,2024,39.4,35.3,10.4
+Urbain,Fquih Ben Salah,2025,39.4,35.1,10.9
+National,Fès,2017,36.9,32.3,12.5
+National,Fès,2018,37.3,31.9,14.3
+National,Fès,2019,39.0,34.3,11.9
+National,Fès,2020,39.2,33.3,14.9
+National,Fès,2021,37.6,31.3,16.8
+National,Fès,2022,38.9,32.2,17.2
+National,Fès,2023,39.0,32.0,17.9
+National,Fès,2024,40.0,32.9,17.8
+National,Fès,2025,42.4,34.9,17.5
+Rural,Fès,2017,43.8,42.7,
+Rural,Fès,2018,42.2,38.8,
+Rural,Fès,2019,54.5,50.0,
+Rural,Fès,2020,56.0,47.6,
+Rural,Fès,2021,44.1,37.3,
+Rural,Fès,2022,39.1,35.6,
+Rural,Fès,2023,43.0,39.7,
+Rural,Fès,2024,42.8,40.9,
+Rural,Fès,2025,45.6,38.4,
+Urbain,Fès,2017,36.8,32.1,12.7
+Urbain,Fès,2018,37.2,31.8,14.4
+Urbain,Fès,2019,38.7,34.1,12.0
+Urbain,Fès,2020,38.8,33.0,14.9
+Urbain,Fès,2021,37.5,31.2,16.8
+Urbain,Fès,2022,38.9,32.2,17.3
+Urbain,Fès,2023,38.9,31.9,18.1
+Urbain,Fès,2024,39.9,32.8,18.0
+Urbain,Fès,2025,42.3,34.9,17.6
+National,Guelmim,2017,42.6,34.5,18.9
+National,Guelmim,2018,41.8,32.5,22.3
+National,Guelmim,2019,43.9,34.0,22.5
+National,Guelmim,2020,43.2,31.6,26.9
+National,Guelmim,2021,43.3,32.1,26.0
+National,Guelmim,2022,40.3,28.9,28.4
+National,Guelmim,2023,39.6,28.5,28.2
+National,Guelmim,2024,38.9,28.4,27.1
+National,Guelmim,2025,41.0,30.8,24.9
+Rural,Guelmim,2017,48.1,44.1,
+Rural,Guelmim,2018,48.7,41.8,
+Rural,Guelmim,2019,53.6,46.8,
+Rural,Guelmim,2020,44.3,37.8,
+Rural,Guelmim,2021,45.9,40.6,
+Rural,Guelmim,2022,40.3,33.1,
+Rural,Guelmim,2023,38.8,31.5,
+Rural,Guelmim,2024,30.9,27.0,
+Rural,Guelmim,2025,38.3,33.8,
+Urbain,Guelmim,2017,40.5,30.9,23.7
+Urbain,Guelmim,2018,39.2,29.0,26.1
+Urbain,Guelmim,2019,40.5,29.6,26.9
+Urbain,Guelmim,2020,42.8,29.5,31.0
+Urbain,Guelmim,2021,42.6,29.6,30.6
+Urbain,Guelmim,2022,40.3,27.7,31.4
+Urbain,Guelmim,2023,39.9,27.6,30.8
+Urbain,Guelmim,2024,41.0,28.7,30.1
+Urbain,Guelmim,2025,41.7,30.0,28.1
+National,Guercif,2017,49.0,41.8,14.6
+National,Guercif,2018,47.3,41.1,13.1
+National,Guercif,2019,48.4,43.7,9.7
+National,Guercif,2020,48.6,42.2,13.2
+National,Guercif,2021,47.1,40.5,14.0
+National,Guercif,2022,45.5,38.9,14.5
+National,Guercif,2023,42.1,35.1,16.5
+National,Guercif,2024,41.8,34.5,17.5
+National,Guercif,2025,43.3,36.6,15.4
+Rural,Guercif,2017,53.6,48.6,9.3
+Rural,Guercif,2018,50.8,47.5,
+Rural,Guercif,2019,52.6,49.5,
+Rural,Guercif,2020,52.8,47.0,11.0
+Rural,Guercif,2021,50.0,44.4,11.2
+Rural,Guercif,2022,48.1,41.6,13.5
+Rural,Guercif,2023,45.2,39.5,12.7
+Rural,Guercif,2024,43.2,36.4,15.7
+Rural,Guercif,2025,42.9,37.4,12.9
+Urbain,Guercif,2017,43.8,34.2,21.8
+Urbain,Guercif,2018,43.4,34.1,21.5
+Urbain,Guercif,2019,43.7,37.2,14.9
+Urbain,Guercif,2020,43.9,36.9,16.0
+Urbain,Guercif,2021,43.9,36.2,17.6
+Urbain,Guercif,2022,42.7,36.0,15.7
+Urbain,Guercif,2023,38.4,30.0,21.9
+Urbain,Guercif,2024,40.0,32.1,19.8
+Urbain,Guercif,2025,43.7,35.7,18.3
+National,Ifrane,2017,50.4,44.7,11.3
+National,Ifrane,2018,47.4,41.8,11.8
+National,Ifrane,2019,45.8,40.9,10.7
+National,Ifrane,2020,43.3,36.5,15.9
+National,Ifrane,2021,48.6,41.6,14.4
+National,Ifrane,2022,50.4,43.6,13.5
+National,Ifrane,2023,48.1,42.1,12.5
+National,Ifrane,2024,48.7,41.4,15.0
+National,Ifrane,2025,50.4,44.7,11.4
+Rural,Ifrane,2017,60.0,56.4,
+Rural,Ifrane,2018,54.1,51.0,
+Rural,Ifrane,2019,48.9,46.9,
+Rural,Ifrane,2020,45.9,40.7,
+Rural,Ifrane,2021,51.9,47.8,
+Rural,Ifrane,2022,53.9,52.7,
+Rural,Ifrane,2023,51.1,48.6,
+Rural,Ifrane,2024,52.7,47.3,
+Rural,Ifrane,2025,55.7,53.0,
+Urbain,Ifrane,2017,43.8,36.7,16.3
+Urbain,Ifrane,2018,42.9,35.6,17.0
+Urbain,Ifrane,2019,43.1,35.8,16.8
+Urbain,Ifrane,2020,41.3,33.1,19.9
+Urbain,Ifrane,2021,45.7,36.2,20.8
+Urbain,Ifrane,2022,47.7,36.6,23.3
+Urbain,Ifrane,2023,45.6,36.7,19.7
+Urbain,Ifrane,2024,45.9,37.3,18.8
+Urbain,Ifrane,2025,46.9,39.1,16.7
+National,Inezgane-Ait Melloul,2017,42.4,36.8,13.3
+National,Inezgane-Ait Melloul,2018,41.5,36.3,12.5
+National,Inezgane-Ait Melloul,2019,42.9,37.4,12.8
+National,Inezgane-Ait Melloul,2020,40.7,34.7,14.6
+National,Inezgane-Ait Melloul,2021,41.6,35.5,14.6
+National,Inezgane-Ait Melloul,2022,40.7,35.0,14.1
+National,Inezgane-Ait Melloul,2023,41.7,35.1,15.8
+National,Inezgane-Ait Melloul,2024,43.3,36.5,15.6
+National,Inezgane-Ait Melloul,2025,43.2,37.0,14.3
+Rural,Inezgane-Ait Melloul,2017,43.7,39.3,
+Rural,Inezgane-Ait Melloul,2018,44.0,40.8,
+Rural,Inezgane-Ait Melloul,2019,43.3,39.1,
+Rural,Inezgane-Ait Melloul,2020,42.6,39.6,
+Rural,Inezgane-Ait Melloul,2021,36.3,30.3,
+Rural,Inezgane-Ait Melloul,2022,33.9,31.1,
+Rural,Inezgane-Ait Melloul,2023,38.5,32.6,
+Rural,Inezgane-Ait Melloul,2024,38.7,32.4,
+Rural,Inezgane-Ait Melloul,2025,38.1,35.9,
+Urbain,Inezgane-Ait Melloul,2017,42.4,36.7,13.5
+Urbain,Inezgane-Ait Melloul,2018,41.4,36.1,12.8
+Urbain,Inezgane-Ait Melloul,2019,42.8,37.3,13.0
+Urbain,Inezgane-Ait Melloul,2020,40.6,34.5,15.0
+Urbain,Inezgane-Ait Melloul,2021,41.8,35.7,14.5
+Urbain,Inezgane-Ait Melloul,2022,41.0,35.1,14.3
+Urbain,Inezgane-Ait Melloul,2023,41.9,35.2,15.8
+Urbain,Inezgane-Ait Melloul,2024,43.4,36.7,15.6
+Urbain,Inezgane-Ait Melloul,2025,43.3,37.0,14.6
+National,Jerada,2017,44.8,36.2,19.1
+National,Jerada,2018,43.1,35.6,17.3
+National,Jerada,2019,38.2,32.1,16.1
+National,Jerada,2020,40.4,32.0,20.8
+National,Jerada,2021,41.4,31.4,24.3
+National,Jerada,2022,41.1,32.4,21.1
+National,Jerada,2023,39.3,29.8,24.2
+National,Jerada,2024,39.9,31.3,21.6
+National,Jerada,2025,42.9,31.9,25.8
+Rural,Jerada,2017,56.0,48.3,
+Rural,Jerada,2018,52.3,47.8,
+Rural,Jerada,2019,45.1,38.3,
+Rural,Jerada,2020,48.6,40.8,16.1
+Rural,Jerada,2021,47.2,37.8,19.9
+Rural,Jerada,2022,48.0,39.3,18.2
+Rural,Jerada,2023,43.2,33.3,23.0
+Rural,Jerada,2024,44.4,36.6,
+Rural,Jerada,2025,46.3,38.2,
+Urbain,Jerada,2017,38.4,29.4,23.6
+Urbain,Jerada,2018,37.6,28.4,24.4
+Urbain,Jerada,2019,34.9,29.0,16.9
+Urbain,Jerada,2020,36.6,27.9,23.7
+Urbain,Jerada,2021,39.0,28.7,26.5
+Urbain,Jerada,2022,38.0,29.4,22.7
+Urbain,Jerada,2023,37.8,28.5,24.7
+Urbain,Jerada,2024,38.4,29.5,23.2
+Urbain,Jerada,2025,41.7,29.7,29.0
+National,Khouribga,2017,46.3,43.0,7.1
+National,Khouribga,2018,44.1,40.8,7.5
+National,Khouribga,2019,44.2,41.3,6.4
+National,Khouribga,2020,43.9,40.5,7.7
+National,Khouribga,2021,44.1,40.0,9.4
+National,Khouribga,2022,44.0,40.3,8.4
+National,Khouribga,2023,42.6,38.1,10.5
+National,Khouribga,2024,43.4,39.6,8.8
+National,Khouribga,2025,43.7,40.3,7.9
+Rural,Khouribga,2017,68.5,68.3,
+Rural,Khouribga,2018,66.1,65.7,
+Rural,Khouribga,2019,63.9,62.7,
+Rural,Khouribga,2020,61.4,60.8,
+Rural,Khouribga,2021,61.1,59.6,
+Rural,Khouribga,2022,60.7,59.6,
+Rural,Khouribga,2023,57.5,56.6,
+Rural,Khouribga,2024,57.0,56.1,
+Rural,Khouribga,2025,59.1,57.6,
+Urbain,Khouribga,2017,36.9,32.3,12.4
+Urbain,Khouribga,2018,35.1,30.6,12.8
+Urbain,Khouribga,2019,36.5,33.0,9.5
+Urbain,Khouribga,2020,37.4,33.0,11.7
+Urbain,Khouribga,2021,37.6,32.5,13.7
+Urbain,Khouribga,2022,37.6,32.9,12.5
+Urbain,Khouribga,2023,37.0,31.1,15.8
+Urbain,Khouribga,2024,38.0,33.1,12.9
+Urbain,Khouribga,2025,37.7,33.4,11.3
+National,Khémisset,2017,47.4,42.3,10.7
+National,Khémisset,2018,46.3,41.9,9.3
+National,Khémisset,2019,45.2,41.5,8.2
+National,Khémisset,2020,42.3,37.1,12.3
+National,Khémisset,2021,43.1,38.7,10.1
+National,Khémisset,2022,42.3,38.1,9.9
+National,Khémisset,2023,40.3,35.6,11.6
+National,Khémisset,2024,40.1,34.7,13.4
+National,Khémisset,2025,39.0,33.9,12.9
+Rural,Khémisset,2017,59.8,57.6,3.6
+Rural,Khémisset,2018,60.0,58.7,
+Rural,Khémisset,2019,57.2,55.1,3.6
+Rural,Khémisset,2020,51.4,47.6,7.5
+Rural,Khémisset,2021,53.8,51.3,4.7
+Rural,Khémisset,2022,52.5,50.1,4.6
+Rural,Khémisset,2023,48.1,45.4,5.5
+Rural,Khémisset,2024,45.2,42.5,5.9
+Rural,Khémisset,2025,42.9,40.3,6.1
+Urbain,Khémisset,2017,36.7,29.1,20.7
+Urbain,Khémisset,2018,35.4,28.7,19.0
+Urbain,Khémisset,2019,35.3,30.2,14.3
+Urbain,Khémisset,2020,35.0,28.7,18.0
+Urbain,Khémisset,2021,34.5,28.7,16.9
+Urbain,Khémisset,2022,34.3,28.7,16.4
+Urbain,Khémisset,2023,34.6,28.4,17.9
+Urbain,Khémisset,2024,36.4,29.1,20.1
+Urbain,Khémisset,2025,36.2,29.5,18.7
+National,Khénifra,2017,49.8,46.0,7.7
+National,Khénifra,2018,48.7,45.7,6.2
+National,Khénifra,2019,48.0,46.0,4.1
+National,Khénifra,2020,44.9,41.6,7.4
+National,Khénifra,2021,48.2,43.7,9.3
+National,Khénifra,2022,44.1,39.9,9.6
+National,Khénifra,2023,42.4,36.6,13.6
+National,Khénifra,2024,43.9,38.1,13.1
+National,Khénifra,2025,45.0,39.2,12.9
+Rural,Khénifra,2017,67.5,67.2,
+Rural,Khénifra,2018,70.2,70.1,
+Rural,Khénifra,2019,70.5,70.3,
+Rural,Khénifra,2020,68.0,66.6,
+Rural,Khénifra,2021,66.7,63.9,
+Rural,Khénifra,2022,59.1,56.9,
+Rural,Khénifra,2023,58.3,54.6,6.4
+Rural,Khénifra,2024,59.9,56.3,
+Rural,Khénifra,2025,62.4,60.7,
+Urbain,Khénifra,2017,38.9,33.0,15.3
+Urbain,Khénifra,2018,36.2,31.5,13.0
+Urbain,Khénifra,2019,34.7,31.7,8.7
+Urbain,Khénifra,2020,32.3,27.9,13.5
+Urbain,Khénifra,2021,37.6,32.1,14.6
+Urbain,Khénifra,2022,35.6,30.2,15.1
+Urbain,Khénifra,2023,33.2,26.3,20.8
+Urbain,Khénifra,2024,34.7,27.7,20.3
+Urbain,Khénifra,2025,35.0,26.8,23.3
+National,Kénitra,2017,50.6,44.9,11.4
+National,Kénitra,2018,49.8,44.8,10.0
+National,Kénitra,2019,47.5,43.6,8.3
+National,Kénitra,2020,46.0,40.9,11.0
+National,Kénitra,2021,46.1,41.3,10.4
+National,Kénitra,2022,46.0,41.9,8.8
+National,Kénitra,2023,46.5,42.4,8.8
+National,Kénitra,2024,44.6,40.9,8.3
+National,Kénitra,2025,44.2,39.6,10.3
+Rural,Kénitra,2017,59.4,55.6,6.4
+Rural,Kénitra,2018,59.8,57.3,4.1
+Rural,Kénitra,2019,56.0,54.2,3.2
+Rural,Kénitra,2020,52.5,49.3,5.9
+Rural,Kénitra,2021,51.2,49.3,3.7
+Rural,Kénitra,2022,51.7,50.1,3.0
+Rural,Kénitra,2023,53.4,52.0,2.6
+Rural,Kénitra,2024,50.6,49.3,2.6
+Rural,Kénitra,2025,50.0,47.8,4.3
+Urbain,Kénitra,2017,45.0,37.9,15.6
+Urbain,Kénitra,2018,43.5,36.9,15.1
+Urbain,Kénitra,2019,42.4,37.1,12.4
+Urbain,Kénitra,2020,42.1,35.9,14.9
+Urbain,Kénitra,2021,43.1,36.6,15.1
+Urbain,Kénitra,2022,42.7,37.2,12.9
+Urbain,Kénitra,2023,42.5,36.8,13.3
+Urbain,Kénitra,2024,41.1,36.0,12.4
+Urbain,Kénitra,2025,40.9,35.0,14.4
+National,Larache,2017,42.8,38.9,9.1
+National,Larache,2018,43.4,40.5,6.5
+National,Larache,2019,42.5,39.7,6.5
+National,Larache,2020,46.8,42.5,9.2
+National,Larache,2021,49.1,44.6,9.2
+National,Larache,2022,47.5,42.9,9.6
+National,Larache,2023,46.1,41.5,10.1
+National,Larache,2024,45.5,41.4,9.1
+National,Larache,2025,46.1,42.1,8.7
+Rural,Larache,2017,46.9,44.4,5.2
+Rural,Larache,2018,48.3,47.2,
+Rural,Larache,2019,46.6,45.7,
+Rural,Larache,2020,52.3,50.2,4.0
+Rural,Larache,2021,55.5,54.1,
+Rural,Larache,2022,53.6,51.1,4.7
+Rural,Larache,2023,51.2,48.8,4.8
+Rural,Larache,2024,51.5,48.4,6.1
+Rural,Larache,2025,50.6,48.4,4.4
+Urbain,Larache,2017,39.8,34.8,12.5
+Urbain,Larache,2018,39.9,35.8,10.2
+Urbain,Larache,2019,39.5,35.5,10.2
+Urbain,Larache,2020,42.7,36.7,14.0
+Urbain,Larache,2021,44.8,38.1,15.0
+Urbain,Larache,2022,43.2,37.3,13.7
+Urbain,Larache,2023,42.6,36.5,14.4
+Urbain,Larache,2024,41.3,36.4,11.7
+Urbain,Larache,2025,42.9,37.6,12.4
+National,Laâyoune,2017,39.1,33.3,14.8
+National,Laâyoune,2018,40.1,33.1,17.4
+National,Laâyoune,2019,39.0,30.6,21.4
+National,Laâyoune,2020,38.6,28.9,25.3
+National,Laâyoune,2021,40.4,29.6,26.7
+National,Laâyoune,2022,43.1,31.1,27.7
+National,Laâyoune,2023,43.7,31.9,27.1
+National,Laâyoune,2024,45.0,31.1,30.9
+National,Laâyoune,2025,46.5,30.0,35.5
+Urbain,Laâyoune,2017,39.1,33.3,14.8
+Urbain,Laâyoune,2018,40.1,33.1,17.4
+Urbain,Laâyoune,2019,39.0,30.6,21.4
+Urbain,Laâyoune,2020,38.6,28.9,25.3
+Urbain,Laâyoune,2021,40.4,29.6,26.7
+Urbain,Laâyoune,2022,43.1,31.1,27.7
+Urbain,Laâyoune,2023,43.7,31.9,27.1
+Urbain,Laâyoune,2024,45.0,31.1,30.9
+Urbain,Laâyoune,2025,46.5,30.0,35.5
+National,M'Diq-Fnideq,2017,46.9,42.2,10.1
+National,M'Diq-Fnideq,2018,47.1,41.8,11.3
+National,M'Diq-Fnideq,2019,48.1,41.8,13.1
+National,M'Diq-Fnideq,2020,47.4,38.5,18.8
+National,M'Diq-Fnideq,2021,48.3,38.8,19.7
+National,M'Diq-Fnideq,2022,46.3,39.4,14.9
+National,M'Diq-Fnideq,2023,45.4,37.0,18.4
+National,M'Diq-Fnideq,2024,44.5,36.5,18.0
+National,M'Diq-Fnideq,2025,45.3,38.4,15.3
+Rural,M'Diq-Fnideq,2017,50.0,46.6,
+Rural,M'Diq-Fnideq,2018,51.6,46.4,
+Rural,M'Diq-Fnideq,2019,54.9,44.8,
+Rural,M'Diq-Fnideq,2020,45.2,39.4,
+Rural,M'Diq-Fnideq,2021,50.3,48.8,
+Rural,M'Diq-Fnideq,2022,42.7,40.4,
+Rural,M'Diq-Fnideq,2023,42.8,38.3,
+Rural,M'Diq-Fnideq,2024,39.1,33.0,
+Rural,M'Diq-Fnideq,2025,47.7,42.7,
+Urbain,M'Diq-Fnideq,2017,46.8,42.0,10.2
+Urbain,M'Diq-Fnideq,2018,46.9,41.6,11.4
+Urbain,M'Diq-Fnideq,2019,47.7,41.6,12.8
+Urbain,M'Diq-Fnideq,2020,47.5,38.4,19.0
+Urbain,M'Diq-Fnideq,2021,48.2,38.2,20.7
+Urbain,M'Diq-Fnideq,2022,46.5,39.4,15.4
+Urbain,M'Diq-Fnideq,2023,45.5,36.9,18.8
+Urbain,M'Diq-Fnideq,2024,44.8,36.7,18.1
+Urbain,M'Diq-Fnideq,2025,45.2,38.2,15.6
+National,Marrakech,2017,44.8,40.6,9.4
+National,Marrakech,2018,44.8,41.1,8.2
+National,Marrakech,2019,44.5,41.6,6.7
+National,Marrakech,2020,43.7,40.1,8.3
+National,Marrakech,2021,43.3,37.7,13.1
+National,Marrakech,2022,42.5,38.3,9.9
+National,Marrakech,2023,43.2,39.0,9.7
+National,Marrakech,2024,43.7,38.9,11.1
+National,Marrakech,2025,43.9,39.5,10.0
+Rural,Marrakech,2017,48.5,45.4,6.5
+Rural,Marrakech,2018,47.7,45.1,5.5
+Rural,Marrakech,2019,49.6,47.6,4.1
+Rural,Marrakech,2020,47.8,44.7,6.5
+Rural,Marrakech,2021,47.2,44.0,6.8
+Rural,Marrakech,2022,46.6,44.2,5.2
+Rural,Marrakech,2023,46.8,44.0,5.8
+Rural,Marrakech,2024,47.3,43.5,8.1
+Rural,Marrakech,2025,46.8,43.1,7.8
+Urbain,Marrakech,2017,43.5,39.0,10.5
+Urbain,Marrakech,2018,43.8,39.8,9.2
+Urbain,Marrakech,2019,42.8,39.5,7.7
+Urbain,Marrakech,2020,42.3,38.5,9.0
+Urbain,Marrakech,2021,41.9,35.4,15.6
+Urbain,Marrakech,2022,41.0,36.2,11.8
+Urbain,Marrakech,2023,41.8,37.1,11.4
+Urbain,Marrakech,2024,42.4,37.2,12.3
+Urbain,Marrakech,2025,42.8,38.2,10.9
+National,Meknès,2017,41.2,34.1,17.1
+National,Meknès,2018,40.9,34.8,15.1
+National,Meknès,2019,41.4,35.5,14.1
+National,Meknès,2020,41.1,33.3,19.2
+National,Meknès,2021,43.4,34.1,21.5
+National,Meknès,2022,42.1,33.6,20.1
+National,Meknès,2023,43.5,34.1,21.6
+National,Meknès,2024,43.7,34.9,20.3
+National,Meknès,2025,43.0,34.0,20.8
+Rural,Meknès,2017,47.6,43.2,9.3
+Rural,Meknès,2018,45.4,40.8,10.2
+Rural,Meknès,2019,45.9,42.4,7.5
+Rural,Meknès,2020,45.8,39.3,14.1
+Rural,Meknès,2021,41.1,37.4,9.0
+Rural,Meknès,2022,44.9,39.6,11.8
+Rural,Meknès,2023,44.5,39.7,10.8
+Rural,Meknès,2024,45.1,39.1,13.3
+Rural,Meknès,2025,44.6,38.0,14.7
+Urbain,Meknès,2017,40.0,32.4,18.8
+Urbain,Meknès,2018,40.1,33.7,16.1
+Urbain,Meknès,2019,40.5,34.2,15.5
+Urbain,Meknès,2020,40.3,32.2,20.1
+Urbain,Meknès,2021,43.9,33.5,23.5
+Urbain,Meknès,2022,41.6,32.6,21.7
+Urbain,Meknès,2023,43.4,33.1,23.6
+Urbain,Meknès,2024,43.5,34.2,21.5
+Urbain,Meknès,2025,42.7,33.3,21.9
+National,Midelt,2017,47.1,44.4,5.7
+National,Midelt,2018,48.8,46.3,5.1
+National,Midelt,2019,48.2,45.7,5.2
+National,Midelt,2020,46.2,43.5,5.8
+National,Midelt,2021,47.6,43.3,9.1
+National,Midelt,2022,45.1,41.3,8.3
+National,Midelt,2023,45.3,41.3,9.0
+National,Midelt,2024,42.7,39.6,7.2
+National,Midelt,2025,41.0,38.2,6.7
+Rural,Midelt,2017,57.0,55.4,
+Rural,Midelt,2018,59.5,58.1,
+Rural,Midelt,2019,57.7,55.9,
+Rural,Midelt,2020,55.6,54.3,
+Rural,Midelt,2021,57.0,54.5,
+Rural,Midelt,2022,53.8,51.8,
+Rural,Midelt,2023,51.6,49.6,
+Rural,Midelt,2024,49.7,48.5,
+Rural,Midelt,2025,49.1,47.2,
+Urbain,Midelt,2017,34.8,30.8,11.6
+Urbain,Midelt,2018,34.6,30.7,11.3
+Urbain,Midelt,2019,35.4,31.9,9.9
+Urbain,Midelt,2020,34.5,30.1,12.7
+Urbain,Midelt,2021,36.9,30.5,17.5
+Urbain,Midelt,2022,35.1,29.3,16.4
+Urbain,Midelt,2023,37.7,31.1,17.5
+Urbain,Midelt,2024,34.3,29.0,15.3
+Urbain,Midelt,2025,30.7,26.8,
+National,Mohammadia,2017,45.5,39.0,14.2
+National,Mohammadia,2018,43.1,38.1,11.6
+National,Mohammadia,2019,42.5,37.7,11.2
+National,Mohammadia,2020,43.8,38.3,12.5
+National,Mohammadia,2021,42.5,36.4,14.5
+National,Mohammadia,2022,42.0,36.5,13.1
+National,Mohammadia,2023,42.6,37.4,12.1
+National,Mohammadia,2024,42.6,37.6,11.8
+National,Mohammadia,2025,43.3,37.9,12.4
+Rural,Mohammadia,2017,49.0,44.0,10.3
+Rural,Mohammadia,2018,45.7,42.8,
+Rural,Mohammadia,2019,43.9,40.9,
+Rural,Mohammadia,2020,44.1,37.9,14.0
+Rural,Mohammadia,2021,44.2,38.6,12.8
+Rural,Mohammadia,2022,43.7,38.6,
+Rural,Mohammadia,2023,41.7,38.8,
+Rural,Mohammadia,2024,44.1,40.4,
+Rural,Mohammadia,2025,44.4,42.0,
+Urbain,Mohammadia,2017,44.4,37.4,15.6
+Urbain,Mohammadia,2018,42.3,36.7,13.3
+Urbain,Mohammadia,2019,42.1,36.7,12.7
+Urbain,Mohammadia,2020,43.7,38.4,12.2
+Urbain,Mohammadia,2021,42.0,35.8,15.0
+Urbain,Mohammadia,2022,41.5,35.9,13.6
+Urbain,Mohammadia,2023,42.8,37.1,13.3
+Urbain,Mohammadia,2024,42.1,36.7,12.8
+Urbain,Mohammadia,2025,43.0,36.9,14.2
+National,Moulay Yacoub,2017,49.4,47.0,
+National,Moulay Yacoub,2018,51.3,49.8,
+National,Moulay Yacoub,2019,48.1,46.1,
+National,Moulay Yacoub,2020,49.5,47.3,
+National,Moulay Yacoub,2021,47.4,44.7,
+National,Moulay Yacoub,2022,42.8,39.3,8.0
+National,Moulay Yacoub,2023,43.4,39.1,10.1
+National,Moulay Yacoub,2024,43.2,38.6,10.6
+National,Moulay Yacoub,2025,48.1,44.1,8.4
+Rural,Moulay Yacoub,2017,50.2,48.7,
+Rural,Moulay Yacoub,2018,52.4,51.1,
+Rural,Moulay Yacoub,2019,50.6,49.1,
+Rural,Moulay Yacoub,2020,51.6,49.7,
+Rural,Moulay Yacoub,2021,49.0,46.3,
+Rural,Moulay Yacoub,2022,43.7,40.3,
+Rural,Moulay Yacoub,2023,44.7,40.0,10.5
+Rural,Moulay Yacoub,2024,44.4,39.8,10.3
+Rural,Moulay Yacoub,2025,48.5,44.6,8.0
+Urbain,Moulay Yacoub,2017,44.5,37.2,
+Urbain,Moulay Yacoub,2018,45.7,42.8,
+Urbain,Moulay Yacoub,2019,35.9,31.8,
+Urbain,Moulay Yacoub,2020,39.4,35.8,
+Urbain,Moulay Yacoub,2021,39.0,36.0,
+Urbain,Moulay Yacoub,2022,37.1,,
+Urbain,Moulay Yacoub,2023,36.5,33.9,
+Urbain,Moulay Yacoub,2024,36.3,31.7,
+Urbain,Moulay Yacoub,2025,46.4,41.3,
+National,Médiouna,2017,48.3,43.6,9.7
+National,Médiouna,2018,46.3,43.1,
+National,Médiouna,2019,43.4,40.5,6.7
+National,Médiouna,2020,42.9,39.0,9.1
+National,Médiouna,2021,44.8,41.4,7.6
+National,Médiouna,2022,45.3,40.0,11.7
+National,Médiouna,2023,44.4,39.6,10.7
+National,Médiouna,2024,41.9,38.7,7.7
+National,Médiouna,2025,44.4,40.4,9.1
+Rural,Médiouna,2017,52.8,47.4,
+Rural,Médiouna,2018,50.0,46.2,
+Rural,Médiouna,2019,45.4,42.7,
+Rural,Médiouna,2020,44.2,42.0,
+Rural,Médiouna,2021,47.5,45.6,
+Rural,Médiouna,2022,49.3,43.0,
+Rural,Médiouna,2023,47.1,43.0,
+Rural,Médiouna,2024,44.3,41.6,
+Rural,Médiouna,2025,45.6,42.0,
+Urbain,Médiouna,2017,46.4,42.0,9.5
+Urbain,Médiouna,2018,44.6,41.6,
+Urbain,Médiouna,2019,42.6,39.6,
+Urbain,Médiouna,2020,42.5,38.0,10.5
+Urbain,Médiouna,2021,43.8,39.8,9.1
+Urbain,Médiouna,2022,43.9,39.0,11.3
+Urbain,Médiouna,2023,43.5,38.5,11.4
+Urbain,Médiouna,2024,41.1,37.6,8.3
+Urbain,Médiouna,2025,44.0,39.8,9.5
+National,Nador,2017,44.4,37.7,15.1
+National,Nador,2018,43.9,38.0,13.5
+National,Nador,2019,43.2,37.8,12.7
+National,Nador,2020,41.3,32.5,21.4
+National,Nador,2021,41.9,34.0,18.7
+National,Nador,2022,40.5,33.2,18.1
+National,Nador,2023,39.1,31.7,19.0
+National,Nador,2024,39.7,31.5,20.6
+National,Nador,2025,40.0,31.3,21.7
+Rural,Nador,2017,49.0,44.6,8.9
+Rural,Nador,2018,48.0,43.8,8.7
+Rural,Nador,2019,45.4,41.0,9.6
+Rural,Nador,2020,43.4,36.4,16.0
+Rural,Nador,2021,45.3,40.9,9.6
+Rural,Nador,2022,43.1,37.1,13.8
+Rural,Nador,2023,39.9,32.9,17.4
+Rural,Nador,2024,41.4,33.0,20.1
+Rural,Nador,2025,43.3,34.0,21.5
+Urbain,Nador,2017,42.7,35.1,17.7
+Urbain,Nador,2018,42.5,35.9,15.5
+Urbain,Nador,2019,42.5,36.7,13.8
+Urbain,Nador,2020,40.6,31.2,23.2
+Urbain,Nador,2021,40.8,31.9,21.9
+Urbain,Nador,2022,39.7,32.0,19.5
+Urbain,Nador,2023,38.9,31.3,19.5
+Urbain,Nador,2024,39.2,31.1,20.8
+Urbain,Nador,2025,39.1,30.6,21.7
+National,Nouaceur,2017,51.1,47.9,6.3
+National,Nouaceur,2018,49.5,45.9,7.3
+National,Nouaceur,2019,51.0,46.8,8.3
+National,Nouaceur,2020,49.5,45.5,8.2
+National,Nouaceur,2021,49.7,44.5,10.3
+National,Nouaceur,2022,46.9,41.7,11.1
+National,Nouaceur,2023,49.7,42.2,14.9
+National,Nouaceur,2024,50.8,42.8,15.8
+National,Nouaceur,2025,51.5,44.4,13.8
+Rural,Nouaceur,2017,54.1,53.2,
+Rural,Nouaceur,2018,52.5,50.4,
+Rural,Nouaceur,2019,51.0,48.5,
+Rural,Nouaceur,2020,49.8,47.1,
+Rural,Nouaceur,2021,49.7,46.5,
+Rural,Nouaceur,2022,43.5,38.4,
+Rural,Nouaceur,2023,44.6,37.6,
+Rural,Nouaceur,2024,47.5,40.2,
+Rural,Nouaceur,2025,49.0,42.8,
+Urbain,Nouaceur,2017,50.6,46.9,7.3
+Urbain,Nouaceur,2018,49.0,45.1,7.9
+Urbain,Nouaceur,2019,51.0,46.5,8.9
+Urbain,Nouaceur,2020,49.5,45.2,8.5
+Urbain,Nouaceur,2021,49.7,44.2,11.0
+Urbain,Nouaceur,2022,47.4,42.2,11.0
+Urbain,Nouaceur,2023,50.5,43.0,14.8
+Urbain,Nouaceur,2024,51.3,43.2,15.9
+Urbain,Nouaceur,2025,51.8,44.6,13.9
+National,Ouarzazate,2017,42.3,40.0,5.4
+National,Ouarzazate,2018,42.2,39.6,6.1
+National,Ouarzazate,2019,42.8,40.4,5.5
+National,Ouarzazate,2020,45.0,39.7,11.8
+National,Ouarzazate,2021,48.1,43.4,9.8
+National,Ouarzazate,2022,45.8,41.8,8.7
+National,Ouarzazate,2023,46.6,40.0,14.1
+National,Ouarzazate,2024,46.3,42.0,9.4
+National,Ouarzazate,2025,45.3,40.9,9.7
+Rural,Ouarzazate,2017,46.3,44.8,
+Rural,Ouarzazate,2018,47.9,46.4,
+Rural,Ouarzazate,2019,48.1,47.3,
+Rural,Ouarzazate,2020,50.6,46.2,8.6
+Rural,Ouarzazate,2021,52.6,49.7,
+Rural,Ouarzazate,2022,50.1,46.9,
+Rural,Ouarzazate,2023,50.7,45.3,10.7
+Rural,Ouarzazate,2024,49.9,47.1,
+Rural,Ouarzazate,2025,48.0,45.4,
+Urbain,Ouarzazate,2017,36.5,33.1,
+Urbain,Ouarzazate,2018,34.6,30.6,11.5
+Urbain,Ouarzazate,2019,35.9,31.6,12.0
+Urbain,Ouarzazate,2020,37.1,30.5,17.8
+Urbain,Ouarzazate,2021,42.0,35.0,16.8
+Urbain,Ouarzazate,2022,39.9,34.9,12.6
+Urbain,Ouarzazate,2023,41.1,33.0,19.8
+Urbain,Ouarzazate,2024,41.7,35.4,15.3
+Urbain,Ouarzazate,2025,41.7,35.0,16.0
+National,Oued Ed-Dahab,2017,71.9,66.6,7.4
+National,Oued Ed-Dahab,2018,69.0,64.7,6.3
+National,Oued Ed-Dahab,2019,64.1,60.0,6.5
+National,Oued Ed-Dahab,2020,55.2,50.6,8.2
+National,Oued Ed-Dahab,2021,54.8,49.7,9.1
+National,Oued Ed-Dahab,2022,58.7,53.8,8.3
+National,Oued Ed-Dahab,2023,60.5,56.5,6.6
+National,Oued Ed-Dahab,2024,61.1,53.0,13.4
+National,Oued Ed-Dahab,2025,59.5,53.2,10.6
+Rural,Oued Ed-Dahab,2020,78.2,78.2,
+Urbain,Oued Ed-Dahab,2017,57.4,49.4,13.9
+Urbain,Oued Ed-Dahab,2018,56.4,50.2,10.8
+Urbain,Oued Ed-Dahab,2019,53.5,47.9,10.5
+Urbain,Oued Ed-Dahab,2020,49.8,44.2,11.2
+Urbain,Oued Ed-Dahab,2021,50.4,44.8,11.2
+Urbain,Oued Ed-Dahab,2022,50.5,44.4,12.1
+Urbain,Oued Ed-Dahab,2023,52.2,47.3,9.3
+Urbain,Oued Ed-Dahab,2024,54.0,44.3,17.9
+Urbain,Oued Ed-Dahab,2025,54.5,47.9,12.1
+National,Ouezzane,2017,47.0,43.6,7.2
+National,Ouezzane,2018,44.9,41.7,7.2
+National,Ouezzane,2019,43.5,39.8,8.4
+National,Ouezzane,2020,46.8,44.7,4.5
+National,Ouezzane,2021,54.8,51.7,5.5
+National,Ouezzane,2022,52.7,50.4,4.3
+National,Ouezzane,2023,50.4,47.9,4.9
+National,Ouezzane,2024,47.8,44.7,6.4
+National,Ouezzane,2025,47.9,44.3,7.4
+Rural,Ouezzane,2017,49.3,47.3,
+Rural,Ouezzane,2018,46.8,44.8,4.4
+Rural,Ouezzane,2019,44.7,42.5,5.1
+Rural,Ouezzane,2020,48.8,47.3,
+Rural,Ouezzane,2021,59.6,57.8,
+Rural,Ouezzane,2022,56.2,55.1,
+Rural,Ouezzane,2023,54.0,52.1,
+Rural,Ouezzane,2024,51.1,49.0,
+Rural,Ouezzane,2025,51.3,49.1,
+Urbain,Ouezzane,2017,40.1,32.6,18.8
+Urbain,Ouezzane,2018,39.4,32.9,
+Urbain,Ouezzane,2019,40.0,32.6,18.5
+Urbain,Ouezzane,2020,41.8,38.3,
+Urbain,Ouezzane,2021,41.9,35.7,14.7
+Urbain,Ouezzane,2022,43.4,38.3,11.8
+Urbain,Ouezzane,2023,40.5,36.3,
+Urbain,Ouezzane,2024,39.0,33.3,14.8
+Urbain,Ouezzane,2025,38.8,31.6,18.4
+National,Oujda-Angad,2017,44.0,34.9,20.7
+National,Oujda-Angad,2018,42.6,34.2,19.7
+National,Oujda-Angad,2019,42.1,34.5,18.0
+National,Oujda-Angad,2020,41.6,31.8,23.7
+National,Oujda-Angad,2021,40.7,32.7,19.8
+National,Oujda-Angad,2022,41.6,33.8,18.8
+National,Oujda-Angad,2023,39.6,31.1,21.5
+National,Oujda-Angad,2024,40.8,31.3,23.3
+National,Oujda-Angad,2025,39.4,29.1,26.1
+Rural,Oujda-Angad,2017,65.1,60.0,
+Rural,Oujda-Angad,2018,62.4,58.9,
+Rural,Oujda-Angad,2019,62.8,59.9,
+Rural,Oujda-Angad,2020,55.5,50.3,
+Rural,Oujda-Angad,2021,56.3,51.5,
+Rural,Oujda-Angad,2022,49.7,46.0,
+Rural,Oujda-Angad,2023,50.7,44.8,
+Rural,Oujda-Angad,2024,50.7,44.5,
+Rural,Oujda-Angad,2025,42.3,36.6,
+Urbain,Oujda-Angad,2017,42.4,32.9,22.3
+Urbain,Oujda-Angad,2018,41.1,32.3,21.3
+Urbain,Oujda-Angad,2019,40.6,32.7,19.5
+Urbain,Oujda-Angad,2020,40.7,30.6,24.9
+Urbain,Oujda-Angad,2021,39.8,31.5,20.8
+Urbain,Oujda-Angad,2022,41.1,33.0,19.6
+Urbain,Oujda-Angad,2023,38.9,30.3,22.3
+Urbain,Oujda-Angad,2024,40.2,30.6,24.1
+Urbain,Oujda-Angad,2025,39.2,28.7,26.9
+National,Rabat,2017,43.5,36.7,15.7
+National,Rabat,2018,43.1,36.9,14.4
+National,Rabat,2019,42.8,36.7,14.2
+National,Rabat,2020,41.9,35.7,14.8
+National,Rabat,2021,41.2,34.3,16.6
+National,Rabat,2022,41.9,35.2,16.1
+National,Rabat,2023,41.3,35.0,15.2
+National,Rabat,2024,43.3,36.8,15.1
+National,Rabat,2025,43.2,37.4,13.3
+Urbain,Rabat,2017,43.5,36.7,15.7
+Urbain,Rabat,2018,43.1,36.9,14.4
+Urbain,Rabat,2019,42.8,36.7,14.2
+Urbain,Rabat,2020,41.9,35.7,14.8
+Urbain,Rabat,2021,41.2,34.3,16.6
+Urbain,Rabat,2022,41.9,35.2,16.1
+Urbain,Rabat,2023,41.3,35.0,15.2
+Urbain,Rabat,2024,43.3,36.8,15.1
+Urbain,Rabat,2025,43.2,37.4,13.3
+National,Rehamna,2017,48.8,46.7,4.4
+National,Rehamna,2018,47.2,45.4,3.7
+National,Rehamna,2019,47.1,45.4,3.6
+National,Rehamna,2020,44.7,42.8,4.4
+National,Rehamna,2021,48.2,46.3,4.0
+National,Rehamna,2022,45.8,43.8,4.3
+National,Rehamna,2023,47.0,44.3,5.7
+National,Rehamna,2024,44.6,42.1,5.5
+National,Rehamna,2025,44.5,42.2,5.1
+Rural,Rehamna,2017,52.7,51.7,
+Rural,Rehamna,2018,51.0,50.3,
+Rural,Rehamna,2019,50.7,49.9,
+Rural,Rehamna,2020,48.2,47.0,
+Rural,Rehamna,2021,51.7,51.0,
+Rural,Rehamna,2022,48.6,47.0,
+Rural,Rehamna,2023,48.8,47.7,
+Rural,Rehamna,2024,46.3,45.4,
+Rural,Rehamna,2025,46.1,45.0,
+Urbain,Rehamna,2017,41.2,36.8,10.7
+Urbain,Rehamna,2018,39.8,35.9,9.9
+Urbain,Rehamna,2019,40.0,36.7,
+Urbain,Rehamna,2020,38.7,35.2,
+Urbain,Rehamna,2021,41.9,37.9,9.6
+Urbain,Rehamna,2022,40.8,38.1,
+Urbain,Rehamna,2023,44.0,38.5,12.5
+Urbain,Rehamna,2024,41.5,36.1,12.9
+Urbain,Rehamna,2025,41.6,37.2,10.6
+National,Safi,2017,49.5,43.1,13.0
+National,Safi,2018,50.2,43.1,14.2
+National,Safi,2019,47.8,42.8,10.4
+National,Safi,2020,50.3,44.9,10.8
+National,Safi,2021,50.9,46.7,8.2
+National,Safi,2022,48.7,44.7,8.2
+National,Safi,2023,46.1,41.2,10.6
+National,Safi,2024,46.2,41.1,10.9
+National,Safi,2025,44.6,40.1,9.9
+Rural,Safi,2017,55.6,53.8,3.1
+Rural,Safi,2018,54.6,51.9,4.9
+Rural,Safi,2019,52.3,50.6,3.4
+Rural,Safi,2020,55.6,52.3,5.8
+Rural,Safi,2021,58.4,56.7,2.9
+Rural,Safi,2022,54.0,52.9,
+Rural,Safi,2023,51.1,49.2,3.7
+Rural,Safi,2024,49.7,47.4,4.6
+Rural,Safi,2025,47.9,46.0,4.0
+Urbain,Safi,2017,44.4,34.1,23.2
+Urbain,Safi,2018,46.5,35.6,23.4
+Urbain,Safi,2019,43.7,35.9,17.8
+Urbain,Safi,2020,44.6,36.7,17.6
+Urbain,Safi,2021,44.0,37.6,14.6
+Urbain,Safi,2022,43.8,37.1,15.3
+Urbain,Safi,2023,41.6,34.0,18.2
+Urbain,Safi,2024,43.2,35.7,17.3
+Urbain,Safi,2025,41.7,35.2,15.7
+National,Salé,2017,45.0,37.6,16.4
+National,Salé,2018,43.9,37.7,14.0
+National,Salé,2019,43.5,37.1,14.8
+National,Salé,2020,44.0,37.3,15.3
+National,Salé,2021,43.5,36.8,15.5
+National,Salé,2022,43.1,37.2,13.7
+National,Salé,2023,42.9,36.6,14.7
+National,Salé,2024,42.0,35.0,16.6
+National,Salé,2025,41.8,34.6,17.1
+Rural,Salé,2017,59.0,54.9,
+Rural,Salé,2018,56.1,52.9,
+Rural,Salé,2019,50.4,47.5,
+Rural,Salé,2020,46.9,42.6,
+Rural,Salé,2021,47.9,42.5,
+Rural,Salé,2022,46.3,42.9,
+Rural,Salé,2023,44.5,41.3,
+Rural,Salé,2024,47.9,41.4,
+Rural,Salé,2025,45.8,41.9,
+Urbain,Salé,2017,44.3,36.8,17.1
+Urbain,Salé,2018,43.2,36.8,14.6
+Urbain,Salé,2019,43.1,36.5,15.4
+Urbain,Salé,2020,43.9,37.0,15.7
+Urbain,Salé,2021,43.3,36.5,15.7
+Urbain,Salé,2022,42.9,36.9,14.0
+Urbain,Salé,2023,42.8,36.4,15.0
+Urbain,Salé,2024,41.7,34.7,16.8
+Urbain,Salé,2025,41.6,34.3,17.6
+National,Sefrou,2017,42.3,38.7,8.5
+National,Sefrou,2018,43.1,39.6,8.0
+National,Sefrou,2019,44.3,41.0,7.5
+National,Sefrou,2020,41.5,37.6,9.4
+National,Sefrou,2021,38.4,34.7,9.8
+National,Sefrou,2022,37.0,32.6,11.8
+National,Sefrou,2023,35.9,30.8,14.1
+National,Sefrou,2024,36.0,30.5,15.2
+National,Sefrou,2025,39.5,33.0,16.5
+Rural,Sefrou,2017,53.6,50.3,
+Rural,Sefrou,2018,52.8,50.3,
+Rural,Sefrou,2019,52.0,50.2,
+Rural,Sefrou,2020,46.1,44.0,
+Rural,Sefrou,2021,43.4,40.1,
+Rural,Sefrou,2022,42.9,39.5,
+Rural,Sefrou,2023,42.7,38.5,9.9
+Rural,Sefrou,2024,40.6,36.6,9.8
+Rural,Sefrou,2025,42.7,37.1,13.2
+Urbain,Sefrou,2017,33.8,30.0,11.3
+Urbain,Sefrou,2018,35.8,31.6,11.6
+Urbain,Sefrou,2019,38.7,34.3,11.4
+Urbain,Sefrou,2020,38.1,33.0,13.5
+Urbain,Sefrou,2021,34.8,30.7,11.7
+Urbain,Sefrou,2022,32.6,27.5,15.7
+Urbain,Sefrou,2023,31.2,25.5,18.2
+Urbain,Sefrou,2024,32.8,26.3,19.8
+Urbain,Sefrou,2025,37.2,30.1,19.2
+National,Settat,2017,52.4,50.1,4.3
+National,Settat,2018,53.5,51.8,3.0
+National,Settat,2019,55.1,53.3,3.2
+National,Settat,2020,49.9,46.5,6.7
+National,Settat,2021,47.1,44.8,4.8
+National,Settat,2022,46.1,43.6,5.4
+National,Settat,2023,46.8,43.2,7.8
+National,Settat,2024,45.6,41.6,8.7
+National,Settat,2025,46.6,41.7,10.6
+Rural,Settat,2017,61.9,61.0,
+Rural,Settat,2018,64.0,63.8,
+Rural,Settat,2019,65.5,65.2,
+Rural,Settat,2020,59.0,56.8,3.7
+Rural,Settat,2021,56.3,55.6,
+Rural,Settat,2022,54.5,53.5,
+Rural,Settat,2023,53.4,51.5,3.6
+Rural,Settat,2024,50.4,48.3,4.2
+Rural,Settat,2025,48.8,46.1,5.7
+Urbain,Settat,2017,37.9,33.6,11.3
+Urbain,Settat,2018,38.7,35.2,9.0
+Urbain,Settat,2019,39.8,35.9,9.9
+Urbain,Settat,2020,37.8,33.1,12.7
+Urbain,Settat,2021,34.7,30.3,12.5
+Urbain,Settat,2022,35.2,30.7,12.7
+Urbain,Settat,2023,38.5,32.7,15.1
+Urbain,Settat,2024,39.4,33.1,16.1
+Urbain,Settat,2025,43.8,36.0,17.7
+National,Sidi Bennour,2017,68.5,65.3,4.6
+National,Sidi Bennour,2018,67.1,64.8,3.4
+National,Sidi Bennour,2019,63.4,60.5,4.6
+National,Sidi Bennour,2020,59.0,56.1,4.9
+National,Sidi Bennour,2021,60.8,56.9,6.5
+National,Sidi Bennour,2022,60.6,56.4,6.9
+National,Sidi Bennour,2023,54.0,49.3,8.7
+National,Sidi Bennour,2024,55.1,49.8,9.6
+National,Sidi Bennour,2025,54.1,50.1,7.5
+Rural,Sidi Bennour,2017,73.4,71.8,2.2
+Rural,Sidi Bennour,2018,71.9,71.0,
+Rural,Sidi Bennour,2019,67.7,66.1,2.4
+Rural,Sidi Bennour,2020,63.2,61.0,3.5
+Rural,Sidi Bennour,2021,64.4,61.5,4.5
+Rural,Sidi Bennour,2022,64.8,61.8,4.7
+Rural,Sidi Bennour,2023,56.0,52.3,6.6
+Rural,Sidi Bennour,2024,57.2,53.2,7.1
+Rural,Sidi Bennour,2025,56.8,53.7,5.5
+Urbain,Sidi Bennour,2017,50.5,41.9,17.0
+Urbain,Sidi Bennour,2018,48.8,41.4,15.1
+Urbain,Sidi Bennour,2019,48.2,40.6,15.7
+Urbain,Sidi Bennour,2020,45.6,40.3,11.5
+Urbain,Sidi Bennour,2021,48.2,40.7,15.5
+Urbain,Sidi Bennour,2022,46.8,38.7,17.2
+Urbain,Sidi Bennour,2023,48.0,40.0,16.7
+Urbain,Sidi Bennour,2024,48.1,38.9,19.1
+Urbain,Sidi Bennour,2025,45.9,39.1,14.9
+National,Sidi Ifni,2017,44.2,39.4,10.7
+National,Sidi Ifni,2018,41.5,37.0,10.7
+National,Sidi Ifni,2019,46.5,43.0,7.6
+National,Sidi Ifni,2020,42.2,37.0,12.2
+National,Sidi Ifni,2021,41.8,36.6,12.4
+National,Sidi Ifni,2022,39.8,34.6,13.1
+National,Sidi Ifni,2023,42.2,35.4,16.0
+National,Sidi Ifni,2024,39.7,35.2,11.3
+National,Sidi Ifni,2025,39.3,35.6,9.6
+Rural,Sidi Ifni,2017,45.5,41.5,8.6
+Rural,Sidi Ifni,2018,41.8,37.8,9.7
+Rural,Sidi Ifni,2019,50.6,47.8,
+Rural,Sidi Ifni,2020,43.6,39.5,
+Rural,Sidi Ifni,2021,43.0,39.2,
+Rural,Sidi Ifni,2022,38.9,34.4,
+Rural,Sidi Ifni,2023,43.0,36.2,15.8
+Rural,Sidi Ifni,2024,40.3,36.3,
+Rural,Sidi Ifni,2025,41.1,37.5,
+Urbain,Sidi Ifni,2017,40.9,34.2,
+Urbain,Sidi Ifni,2018,40.6,35.2,
+Urbain,Sidi Ifni,2019,37.3,32.1,
+Urbain,Sidi Ifni,2020,38.9,31.5,
+Urbain,Sidi Ifni,2021,38.8,30.3,
+Urbain,Sidi Ifni,2022,42.1,35.2,
+Urbain,Sidi Ifni,2023,40.2,33.5,
+Urbain,Sidi Ifni,2024,38.2,32.6,
+Urbain,Sidi Ifni,2025,35.4,31.4,
+National,Sidi Kacem,2017,49.5,46.1,6.9
+National,Sidi Kacem,2018,48.8,45.3,7.1
+National,Sidi Kacem,2019,48.3,45.2,6.4
+National,Sidi Kacem,2020,45.2,41.3,8.6
+National,Sidi Kacem,2021,45.8,41.9,8.4
+National,Sidi Kacem,2022,46.9,43.6,7.1
+National,Sidi Kacem,2023,46.0,42.6,7.3
+National,Sidi Kacem,2024,44.1,40.6,7.9
+National,Sidi Kacem,2025,42.1,38.9,7.7
+Rural,Sidi Kacem,2017,54.6,52.3,4.2
+Rural,Sidi Kacem,2018,54.0,51.8,4.0
+Rural,Sidi Kacem,2019,53.0,51.3,3.2
+Rural,Sidi Kacem,2020,49.3,47.3,4.1
+Rural,Sidi Kacem,2021,48.2,45.4,5.8
+Rural,Sidi Kacem,2022,50.2,48.2,4.1
+Rural,Sidi Kacem,2023,48.5,46.5,4.1
+Rural,Sidi Kacem,2024,46.3,44.0,4.8
+Rural,Sidi Kacem,2025,43.6,41.2,5.5
+Urbain,Sidi Kacem,2017,40.1,34.7,13.6
+Urbain,Sidi Kacem,2018,39.3,33.4,14.9
+Urbain,Sidi Kacem,2019,39.8,34.2,14.1
+Urbain,Sidi Kacem,2020,38.5,31.6,17.9
+Urbain,Sidi Kacem,2021,41.4,35.7,13.7
+Urbain,Sidi Kacem,2022,41.2,35.7,13.3
+Urbain,Sidi Kacem,2023,41.5,35.7,13.8
+Urbain,Sidi Kacem,2024,40.4,34.9,13.6
+Urbain,Sidi Kacem,2025,39.6,34.9,11.9
+National,Sidi Slimane,2017,49.7,43.6,12.3
+National,Sidi Slimane,2018,48.6,43.1,11.4
+National,Sidi Slimane,2019,47.2,42.9,9.1
+National,Sidi Slimane,2020,45.3,38.9,14.2
+National,Sidi Slimane,2021,45.6,41.4,9.2
+National,Sidi Slimane,2022,46.0,42.6,7.3
+National,Sidi Slimane,2023,45.7,41.2,9.8
+National,Sidi Slimane,2024,44.9,40.3,10.1
+National,Sidi Slimane,2025,41.6,37.0,11.0
+Rural,Sidi Slimane,2017,55.0,50.8,7.6
+Rural,Sidi Slimane,2018,53.1,49.1,7.6
+Rural,Sidi Slimane,2019,50.0,46.6,6.8
+Rural,Sidi Slimane,2020,47.0,43.2,8.0
+Rural,Sidi Slimane,2021,49.3,46.5,
+Rural,Sidi Slimane,2022,49.3,47.1,
+Rural,Sidi Slimane,2023,48.6,45.7,
+Rural,Sidi Slimane,2024,47.4,43.6,8.0
+Rural,Sidi Slimane,2025,43.5,40.1,7.8
+Urbain,Sidi Slimane,2017,43.3,34.7,19.7
+Urbain,Sidi Slimane,2018,43.4,36.1,16.7
+Urbain,Sidi Slimane,2019,43.9,38.5,12.2
+Urbain,Sidi Slimane,2020,43.6,34.4,21.1
+Urbain,Sidi Slimane,2021,41.2,35.3,14.3
+Urbain,Sidi Slimane,2022,41.7,36.7,11.9
+Urbain,Sidi Slimane,2023,42.2,35.9,15.0
+Urbain,Sidi Slimane,2024,41.9,36.5,12.9
+Urbain,Sidi Slimane,2025,39.5,33.5,15.1
+National,Skhirate-Témara,2017,46.2,39.5,14.5
+National,Skhirate-Témara,2018,44.6,39.2,12.0
+National,Skhirate-Témara,2019,45.0,40.0,10.9
+National,Skhirate-Témara,2020,43.9,38.4,12.4
+National,Skhirate-Témara,2021,44.4,39.1,11.9
+National,Skhirate-Témara,2022,45.1,40.0,11.2
+National,Skhirate-Témara,2023,45.5,39.8,12.4
+National,Skhirate-Témara,2024,45.4,38.6,14.8
+National,Skhirate-Témara,2025,44.9,38.9,13.5
+Rural,Skhirate-Témara,2017,52.8,48.3,
+Rural,Skhirate-Témara,2018,51.8,47.6,
+Rural,Skhirate-Témara,2019,52.0,49.1,
+Rural,Skhirate-Témara,2020,51.2,47.2,
+Rural,Skhirate-Témara,2021,42.6,38.2,
+Rural,Skhirate-Témara,2022,43.4,39.5,
+Rural,Skhirate-Témara,2023,47.4,44.0,
+Rural,Skhirate-Témara,2024,44.7,40.0,
+Rural,Skhirate-Témara,2025,43.0,37.3,
+Urbain,Skhirate-Témara,2017,45.6,38.6,15.2
+Urbain,Skhirate-Témara,2018,44.0,38.5,12.5
+Urbain,Skhirate-Témara,2019,44.3,39.2,11.5
+Urbain,Skhirate-Témara,2020,43.2,37.6,12.9
+Urbain,Skhirate-Témara,2021,44.6,39.2,12.1
+Urbain,Skhirate-Témara,2022,45.2,40.0,11.4
+Urbain,Skhirate-Témara,2023,45.3,39.4,12.9
+Urbain,Skhirate-Témara,2024,45.4,38.5,15.1
+Urbain,Skhirate-Témara,2025,45.1,39.0,13.5
+National,Tan-Tan,2017,43.0,32.8,23.6
+National,Tan-Tan,2018,41.3,30.7,25.8
+National,Tan-Tan,2019,43.8,34.7,20.8
+National,Tan-Tan,2020,43.6,33.4,23.4
+National,Tan-Tan,2021,44.2,35.3,20.1
+National,Tan-Tan,2022,42.8,34.7,19.0
+National,Tan-Tan,2023,42.8,34.8,18.6
+National,Tan-Tan,2024,39.9,32.6,18.2
+National,Tan-Tan,2025,43.7,34.1,21.8
+Urbain,Tan-Tan,2017,43.7,33.5,23.3
+Urbain,Tan-Tan,2018,42.2,31.4,25.6
+Urbain,Tan-Tan,2019,43.7,34.4,21.3
+Urbain,Tan-Tan,2020,43.3,32.9,23.9
+Urbain,Tan-Tan,2021,43.9,34.9,20.5
+Urbain,Tan-Tan,2022,43.6,35.3,19.0
+Urbain,Tan-Tan,2023,42.8,34.8,18.6
+Urbain,Tan-Tan,2024,39.9,32.6,18.2
+Urbain,Tan-Tan,2025,43.6,34.1,21.8
+National,Tanger-Assilah,2017,41.9,38.4,8.4
+National,Tanger-Assilah,2018,42.7,39.6,7.4
+National,Tanger-Assilah,2019,43.4,39.5,8.9
+National,Tanger-Assilah,2020,44.8,39.9,11.0
+National,Tanger-Assilah,2021,45.8,39.9,12.9
+National,Tanger-Assilah,2022,47.0,41.2,12.4
+National,Tanger-Assilah,2023,46.8,41.9,10.5
+National,Tanger-Assilah,2024,46.8,41.2,12.1
+National,Tanger-Assilah,2025,44.4,39.6,10.9
+Rural,Tanger-Assilah,2017,51.4,47.3,
+Rural,Tanger-Assilah,2018,51.4,48.9,
+Rural,Tanger-Assilah,2019,47.2,46.0,
+Rural,Tanger-Assilah,2020,50.4,46.5,
+Rural,Tanger-Assilah,2021,48.5,47.0,
+Rural,Tanger-Assilah,2022,50.9,47.0,
+Rural,Tanger-Assilah,2023,46.7,43.4,
+Rural,Tanger-Assilah,2024,48.8,46.1,
+Rural,Tanger-Assilah,2025,43.5,40.5,
+Urbain,Tanger-Assilah,2017,41.3,37.8,8.4
+Urbain,Tanger-Assilah,2018,42.3,39.1,7.5
+Urbain,Tanger-Assilah,2019,43.2,39.1,9.3
+Urbain,Tanger-Assilah,2020,44.5,39.5,11.2
+Urbain,Tanger-Assilah,2021,45.7,39.6,13.4
+Urbain,Tanger-Assilah,2022,46.8,40.9,12.6
+Urbain,Tanger-Assilah,2023,46.8,41.8,10.7
+Urbain,Tanger-Assilah,2024,46.7,40.9,12.4
+Urbain,Tanger-Assilah,2025,44.5,39.6,11.1
+National,Taounate,2017,54.3,53.5,1.5
+National,Taounate,2018,51.4,50.6,1.5
+National,Taounate,2019,51.5,50.6,1.6
+National,Taounate,2020,49.3,47.2,4.2
+National,Taounate,2021,48.1,46.4,3.6
+National,Taounate,2022,48.3,46.7,3.4
+National,Taounate,2023,45.8,44.6,2.7
+National,Taounate,2024,43.6,41.7,4.3
+National,Taounate,2025,43.4,39.9,7.9
+Rural,Taounate,2017,56.8,56.2,
+Rural,Taounate,2018,53.8,53.3,
+Rural,Taounate,2019,53.2,52.5,
+Rural,Taounate,2020,50.9,48.7,4.2
+Rural,Taounate,2021,50.2,48.7,2.9
+Rural,Taounate,2022,50.5,49.2,2.6
+Rural,Taounate,2023,48.0,47.2,
+Rural,Taounate,2024,45.3,43.9,3.3
+Rural,Taounate,2025,45.0,41.7,7.4
+Urbain,Taounate,2017,38.7,36.3,
+Urbain,Taounate,2018,35.8,34.0,
+Urbain,Taounate,2019,40.9,39.5,
+Urbain,Taounate,2020,40.4,38.8,
+Urbain,Taounate,2021,35.7,32.4,
+Urbain,Taounate,2022,35.7,32.3,
+Urbain,Taounate,2023,33.4,30.2,
+Urbain,Taounate,2024,34.2,30.2,
+Urbain,Taounate,2025,35.1,31.1,
+National,Taourirt,2017,45.4,37.7,17.0
+National,Taourirt,2018,43.9,37.5,14.6
+National,Taourirt,2019,43.3,37.2,14.0
+National,Taourirt,2020,43.9,34.8,20.7
+National,Taourirt,2021,42.7,35.0,18.2
+National,Taourirt,2022,41.0,33.7,17.9
+National,Taourirt,2023,39.1,31.8,18.5
+National,Taourirt,2024,38.3,29.8,22.1
+National,Taourirt,2025,39.6,30.6,22.7
+Rural,Taourirt,2017,55.3,50.0,
+Rural,Taourirt,2018,48.8,44.1,
+Rural,Taourirt,2019,47.7,42.7,
+Rural,Taourirt,2020,50.1,45.1,
+Rural,Taourirt,2021,48.9,42.8,12.3
+Rural,Taourirt,2022,45.2,40.4,
+Rural,Taourirt,2023,46.0,39.2,
+Rural,Taourirt,2024,40.8,34.5,
+Rural,Taourirt,2025,41.1,35.0,
+Urbain,Taourirt,2017,41.3,32.6,21.2
+Urbain,Taourirt,2018,41.8,34.6,17.1
+Urbain,Taourirt,2019,41.5,35.0,15.7
+Urbain,Taourirt,2020,41.4,30.7,25.9
+Urbain,Taourirt,2021,40.3,31.9,20.9
+Urbain,Taourirt,2022,39.5,31.2,21.0
+Urbain,Taourirt,2023,36.7,29.3,20.1
+Urbain,Taourirt,2024,37.5,28.4,24.4
+Urbain,Taourirt,2025,39.2,29.3,25.2
+National,Tarfaya,2017,43.0,41.4,
+National,Tarfaya,2018,37.7,32.3,
+National,Tarfaya,2019,36.4,,
+National,Tarfaya,2021,44.1,,
+National,Tarfaya,2023,35.0,,
+National,Tarfaya,2024,51.8,,
+National,Tarfaya,2025,63.6,43.3,
+National,Taroudannt,2017,45.8,42.7,6.7
+National,Taroudannt,2018,45.4,41.8,7.9
+National,Taroudannt,2019,45.4,41.7,7.9
+National,Taroudannt,2020,43.4,39.5,8.9
+National,Taroudannt,2021,41.7,38.3,8.2
+National,Taroudannt,2022,37.4,34.5,7.9
+National,Taroudannt,2023,37.3,33.2,11.0
+National,Taroudannt,2024,38.3,35.1,8.3
+National,Taroudannt,2025,38.3,35.8,6.7
+Rural,Taroudannt,2017,48.0,45.8,4.6
+Rural,Taroudannt,2018,48.1,45.2,6.0
+Rural,Taroudannt,2019,46.4,43.6,6.0
+Rural,Taroudannt,2020,43.4,40.2,7.2
+Rural,Taroudannt,2021,41.2,39.0,5.4
+Rural,Taroudannt,2022,36.8,34.9,5.2
+Rural,Taroudannt,2023,36.3,33.3,8.3
+Rural,Taroudannt,2024,37.6,34.9,7.2
+Rural,Taroudannt,2025,37.1,35.1,5.3
+Urbain,Taroudannt,2017,41.2,36.3,11.9
+Urbain,Taroudannt,2018,40.1,35.2,12.2
+Urbain,Taroudannt,2019,43.4,38.2,12.0
+Urbain,Taroudannt,2020,43.5,38.1,12.3
+Urbain,Taroudannt,2021,42.6,37.1,13.0
+Urbain,Taroudannt,2022,38.6,33.7,12.5
+Urbain,Taroudannt,2023,38.9,32.9,15.4
+Urbain,Taroudannt,2024,39.4,35.3,10.3
+Urbain,Taroudannt,2025,40.4,36.8,8.9
+National,Tata,2017,36.8,32.7,11.0
+National,Tata,2018,38.0,34.3,9.8
+National,Tata,2019,36.5,33.4,8.5
+National,Tata,2020,35.2,32.5,
+National,Tata,2021,33.0,30.1,8.6
+National,Tata,2022,29.2,25.5,12.7
+National,Tata,2023,30.5,26.1,14.5
+National,Tata,2024,35.0,30.9,11.7
+National,Tata,2025,34.9,31.6,
+Rural,Tata,2017,36.1,32.7,
+Rural,Tata,2018,37.0,34.1,
+Rural,Tata,2019,36.5,33.3,
+Rural,Tata,2020,35.6,33.9,
+Rural,Tata,2021,29.6,27.3,
+Rural,Tata,2022,25.3,21.7,
+Rural,Tata,2023,24.1,20.8,
+Rural,Tata,2024,30.2,28.1,
+Rural,Tata,2025,32.2,29.7,
+Urbain,Tata,2017,38.0,32.8,
+Urbain,Tata,2018,39.9,34.7,
+Urbain,Tata,2019,36.4,33.5,
+Urbain,Tata,2020,34.6,30.3,
+Urbain,Tata,2021,38.3,34.5,
+Urbain,Tata,2022,34.9,31.0,
+Urbain,Tata,2023,39.5,33.6,
+Urbain,Tata,2024,41.9,34.8,
+Urbain,Tata,2025,38.9,34.5,
+National,Taza,2017,46.5,44.3,4.8
+National,Taza,2018,44.4,42.3,4.6
+National,Taza,2019,43.3,41.4,4.6
+National,Taza,2020,42.9,39.1,8.9
+National,Taza,2021,42.6,39.7,6.9
+National,Taza,2022,43.4,40.3,7.3
+National,Taza,2023,41.0,38.5,6.0
+National,Taza,2024,39.5,37.0,6.4
+National,Taza,2025,40.9,37.2,9.0
+Rural,Taza,2017,56.4,55.9,
+Rural,Taza,2018,54.8,54.4,
+Rural,Taza,2019,52.4,51.6,
+Rural,Taza,2020,51.0,48.7,4.5
+Rural,Taza,2021,49.4,48.5,
+Rural,Taza,2022,50.8,49.8,
+Rural,Taza,2023,47.6,46.3,
+Rural,Taza,2024,45.1,43.7,
+Rural,Taza,2025,47.5,44.7,6.0
+Urbain,Taza,2017,33.5,29.0,13.5
+Urbain,Taza,2018,31.8,27.7,12.7
+Urbain,Taza,2019,32.1,28.6,10.9
+Urbain,Taza,2020,33.7,28.2,16.4
+Urbain,Taza,2021,34.1,28.7,15.9
+Urbain,Taza,2022,34.6,28.9,16.4
+Urbain,Taza,2023,33.1,29.4,11.4
+Urbain,Taza,2024,32.9,29.1,11.6
+Urbain,Taza,2025,33.4,28.9,13.7
+National,Tinghir,2017,42.6,40.2,5.6
+National,Tinghir,2018,42.4,40.4,4.8
+National,Tinghir,2019,39.9,37.4,6.2
+National,Tinghir,2020,39.5,35.9,9.3
+National,Tinghir,2021,43.4,39.6,8.7
+National,Tinghir,2022,41.9,38.0,9.2
+National,Tinghir,2023,41.2,36.4,11.6
+National,Tinghir,2024,43.9,38.6,12.1
+National,Tinghir,2025,42.8,39.3,8.3
+Rural,Tinghir,2017,43.1,40.9,5.0
+Rural,Tinghir,2018,43.3,41.8,
+Rural,Tinghir,2019,40.1,38.4,
+Rural,Tinghir,2020,40.7,37.3,8.2
+Rural,Tinghir,2021,45.1,41.8,7.4
+Rural,Tinghir,2022,43.9,39.7,9.4
+Rural,Tinghir,2023,42.2,37.6,10.9
+Rural,Tinghir,2024,44.8,39.6,11.6
+Rural,Tinghir,2025,43.7,40.4,
+Urbain,Tinghir,2017,40.8,37.7,
+Urbain,Tinghir,2018,39.8,36.1,
+Urbain,Tinghir,2019,39.1,34.5,
+Urbain,Tinghir,2020,36.3,31.6,
+Urbain,Tinghir,2021,37.5,32.1,
+Urbain,Tinghir,2022,35.5,32.4,
+Urbain,Tinghir,2023,38.5,33.2,
+Urbain,Tinghir,2024,41.5,36.0,
+Urbain,Tinghir,2025,40.5,36.4,
+National,Tiznit,2017,36.8,34.0,7.6
+National,Tiznit,2018,35.3,32.7,7.3
+National,Tiznit,2019,35.8,32.7,8.7
+National,Tiznit,2020,36.2,33.0,8.7
+National,Tiznit,2021,36.3,33.0,9.1
+National,Tiznit,2022,31.6,29.5,6.7
+National,Tiznit,2023,32.6,29.1,10.6
+National,Tiznit,2024,31.1,28.3,8.9
+National,Tiznit,2025,32.6,29.0,11.0
+Rural,Tiznit,2017,37.7,35.4,
+Rural,Tiznit,2018,33.9,32.0,
+Rural,Tiznit,2019,34.1,31.5,
+Rural,Tiznit,2020,33.8,31.4,
+Rural,Tiznit,2021,34.3,32.0,
+Rural,Tiznit,2022,27.3,25.4,
+Rural,Tiznit,2023,28.4,25.7,
+Rural,Tiznit,2024,27.2,24.8,
+Rural,Tiznit,2025,27.4,24.2,
+Urbain,Tiznit,2017,35.6,31.9,
+Urbain,Tiznit,2018,37.4,33.9,
+Urbain,Tiznit,2019,38.1,34.3,
+Urbain,Tiznit,2020,39.3,35.2,
+Urbain,Tiznit,2021,38.7,34.2,11.8
+Urbain,Tiznit,2022,36.7,34.3,
+Urbain,Tiznit,2023,37.5,33.1,
+Urbain,Tiznit,2024,35.6,32.4,
+Urbain,Tiznit,2025,38.4,34.3,
+National,Tétouan,2017,47.3,41.9,11.4
+National,Tétouan,2018,46.8,41.6,11.1
+National,Tétouan,2019,47.2,41.6,11.7
+National,Tétouan,2020,48.0,41.7,13.2
+National,Tétouan,2021,49.7,43.9,11.7
+National,Tétouan,2022,49.3,43.9,11.1
+National,Tétouan,2023,47.0,41.0,12.8
+National,Tétouan,2024,46.7,41.1,12.0
+National,Tétouan,2025,46.9,41.7,11.2
+Rural,Tétouan,2017,54.2,53.2,
+Rural,Tétouan,2018,55.7,53.7,
+Rural,Tétouan,2019,54.9,53.4,
+Rural,Tétouan,2020,53.7,51.6,
+Rural,Tétouan,2021,61.4,60.0,
+Rural,Tétouan,2022,62.1,60.1,
+Rural,Tétouan,2023,58.3,56.1,
+Rural,Tétouan,2024,59.1,56.7,
+Rural,Tétouan,2025,56.0,54.0,
+Urbain,Tétouan,2017,45.0,38.2,15.1
+Urbain,Tétouan,2018,43.8,37.5,14.4
+Urbain,Tétouan,2019,44.7,37.8,15.3
+Urbain,Tétouan,2020,46.2,38.6,16.5
+Urbain,Tétouan,2021,46.0,38.9,15.6
+Urbain,Tétouan,2022,45.5,39.0,14.3
+Urbain,Tétouan,2023,43.4,36.3,16.5
+Urbain,Tétouan,2024,42.6,36.0,15.5
+Urbain,Tétouan,2025,43.8,37.5,14.5
+National,Youssoufia,2017,44.9,39.6,11.8
+National,Youssoufia,2018,46.8,41.1,12.3
+National,Youssoufia,2019,46.4,43.9,5.3
+National,Youssoufia,2020,47.1,44.0,6.6
+National,Youssoufia,2021,46.7,43.9,6.0
+National,Youssoufia,2022,46.3,43.9,5.3
+National,Youssoufia,2023,41.2,38.3,7.2
+National,Youssoufia,2024,41.2,36.7,10.9
+National,Youssoufia,2025,40.3,37.2,7.7
+Rural,Youssoufia,2017,52.1,50.0,
+Rural,Youssoufia,2018,54.1,51.9,
+Rural,Youssoufia,2019,55.2,53.9,
+Rural,Youssoufia,2020,53.5,50.5,
+Rural,Youssoufia,2021,53.4,52.5,
+Rural,Youssoufia,2022,51.5,50.7,
+Rural,Youssoufia,2023,43.5,42.1,
+Rural,Youssoufia,2024,43.4,40.3,
+Rural,Youssoufia,2025,40.3,38.2,
+Urbain,Youssoufia,2017,35.8,26.4,26.3
+Urbain,Youssoufia,2018,37.6,27.3,27.3
+Urbain,Youssoufia,2019,35.9,32.0,10.7
+Urbain,Youssoufia,2020,39.4,36.2,
+Urbain,Youssoufia,2021,38.3,33.2,13.4
+Urbain,Youssoufia,2022,40.1,35.8,
+Urbain,Youssoufia,2023,38.7,33.9,12.3
+Urbain,Youssoufia,2024,38.6,32.6,15.8
+Urbain,Youssoufia,2025,40.3,35.9,10.9
+National,Zagora,2017,34.8,33.2,4.6
+National,Zagora,2018,36.0,35.0,
+National,Zagora,2019,43.0,40.5,5.8
+National,Zagora,2020,40.0,35.8,10.4
+National,Zagora,2021,42.1,38.7,8.0
+National,Zagora,2022,38.2,33.9,11.2
+National,Zagora,2023,40.2,36.2,10.0
+National,Zagora,2024,39.2,34.1,13.0
+National,Zagora,2025,39.8,36.8,7.6
+Rural,Zagora,2017,34.5,33.4,
+Rural,Zagora,2018,35.6,35.1,
+Rural,Zagora,2019,44.2,41.3,6.6
+Rural,Zagora,2020,40.4,36.1,10.6
+Rural,Zagora,2021,42.2,38.8,8.0
+Rural,Zagora,2022,37.3,33.3,10.7
+Rural,Zagora,2023,40.1,36.9,8.0
+Rural,Zagora,2024,40.0,35.0,12.4
+Rural,Zagora,2025,39.6,37.1,
+Urbain,Zagora,2017,36.5,32.5,
+Urbain,Zagora,2018,37.9,34.6,
+Urbain,Zagora,2019,37.8,37.1,
+Urbain,Zagora,2020,38.1,34.5,
+Urbain,Zagora,2021,41.5,38.1,
+Urbain,Zagora,2022,42.6,37.0,
+Urbain,Zagora,2023,40.6,33.0,
+Urbain,Zagora,2024,36.0,30.4,
+Urbain,Zagora,2025,40.4,35.5,
