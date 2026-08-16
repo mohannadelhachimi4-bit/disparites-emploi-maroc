@@ -100,8 +100,8 @@ Le taux de chômage plus faible en zone rurale traduit-il un marché du travail 
 │   ├── clean/          # tables nettoyées et fusionnées
 │   └── raw/            # exports bruts du BDS (HCP)
 ├── outputs/            # graphiques générés
+├── README.md
 ├── exploration.py
 ├── nettoyage.py
-├── visualisation.py
-└── README.md
+└── visualisation.py
 ```
