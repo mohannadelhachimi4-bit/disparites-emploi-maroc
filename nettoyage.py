@@ -1,5 +1,4 @@
 import pandas as pd
-from fontTools.diff import color
 import os
 
 

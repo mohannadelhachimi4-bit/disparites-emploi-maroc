@@ -5,8 +5,8 @@ import matplotlib.pyplot as plt
 
 
 def load_data() -> tuple[pd.DataFrame, pd.DataFrame]:
-    marche_travail = pd.read_csv(f"{"data/clean"}/marche_travail.csv")
-    chomage_diplome = pd.read_csv(f"{"data/clean"}/chomage_diplome.csv")
+    marche_travail = pd.read_csv("data/clean/marche_travail.csv")
+    chomage_diplome = pd.read_csv("data/clean/chomage_diplome.csv")
     chomage_diplome_clean = chomage_diplome[chomage_diplome["diplome"] != "Total"]
     return marche_travail, chomage_diplome_clean
 
